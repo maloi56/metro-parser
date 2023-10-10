@@ -1,0 +1,4522 @@
+[
+    {
+        "article": 562909,
+        "name": "aro Пеленки 60х90, 30шт",
+        "url": "https://online.metro-cc.ru/products/aro-60h90-30sht",
+        "regular_price": 789,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 128987,
+        "name": "Трусики Lovular Солнечная серия L 9-14кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-l-9-14kg-44sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 205834,
+        "name": "Подгузники-трусики YokoSun размер L 9-14кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/44sht-podguzniki-trusiki-yokosun-razmer-l-9-14-kg",
+        "regular_price": 1789,
+        "promo_price": 1199,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 507208,
+        "name": "Подгузники Huggies Elite Soft 3 5-9кг, 72шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elite-soft-3-5-9kg-80sht-",
+        "regular_price": 3059,
+        "promo_price": 1249,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 581011,
+        "name": "Молоко Агуша ультрапастеризованное 3.2%, 925г",
+        "url": "https://online.metro-cc.ru/products/moloko-agusha-ultrapasterizovannoe-32-925g-bzmzh",
+        "regular_price": 128,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 585811,
+        "name": "Смесь молочная Kabrita 2 Gold на козьем молоке для комфортного пищеварения с 6 месяцев, 800г",
+        "url": "https://online.metro-cc.ru/products/suhaya-molochnaya-kabrita-gold-2-na-osnove-kozyego-800g",
+        "regular_price": 4309,
+        "promo_price": 3569,
+        "brand": "KABRITA"
+    },
+    {
+        "article": 394215,
+        "name": "Трусики Merries XL 5 12-22кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/art_394215",
+        "regular_price": 2279,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 128985,
+        "name": "Трусики Lovular Солнечная серия Xl 12-17кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-xl-12-17kg-38sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 562908,
+        "name": "aro Пеленки для детей 60*60 см 30 шт",
+        "url": "https://online.metro-cc.ru/products/dlya-detej-aro-60-60-sm-odnorazovye-v-upakovke-30-sht",
+        "regular_price": 519,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 529647,
+        "name": "Биолакт Тема без сахара с 8 месяцев 3.4%, 206г",
+        "url": "https://online.metro-cc.ru/products/tema-biolakt-bez-sahara-s-8-mesyacev-206g",
+        "regular_price": 50,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 30277,
+        "name": "Трусики Huggies для мальчиков 5 12-17кг, 96шт",
+        "url": "https://online.metro-cc.ru/products/huggies-disney-box-dlya-malchikov-5-13-17kg-96-sht",
+        "regular_price": 4349,
+        "promo_price": 2499,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 394216,
+        "name": "Трусики Merries L 4 9-14кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/merries-l-4-9-14kg-44-sht",
+        "regular_price": 2279,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 204082,
+        "name": "Сок Сады Придонья Яблоко прямого отжима с 4 месяцев, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_204082",
+        "regular_price": 26.9,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 248028,
+        "name": "Подгузники Huggies Classic 4 7-18кг, 68шт",
+        "url": "https://online.metro-cc.ru/products/huggies-classic-4-7-18kg-68sht-",
+        "regular_price": 1519,
+        "promo_price": 999,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 204384,
+        "name": "Смесь Similac Изомил с рождения, 400г",
+        "url": "https://online.metro-cc.ru/products/400g-smes-similac-izomil-s-rozhdeniya",
+        "regular_price": 939,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 30281,
+        "name": "Трусики Huggies для мальчиков 6 15-25кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-malchikov-6-15-25kg-44-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 585810,
+        "name": "Детское молочко Kabrita 3 Gold на козьем молоке для комфортного пищеварения с 12 месяцев, 800г",
+        "url": "https://online.metro-cc.ru/products/suhaya-molochnaya-kabrita-gold-3-na-osnove-kozyego-800g",
+        "regular_price": 4309,
+        "promo_price": 3569,
+        "brand": "KABRITA"
+    },
+    {
+        "article": 202328,
+        "name": "Смесь Нэнни 3 молочная, 800г",
+        "url": "https://online.metro-cc.ru/products/800g-molochnaya-smes-nenni-3",
+        "regular_price": 3839,
+        "promo_price": null,
+        "brand": "НЭННИ"
+    },
+    {
+        "article": 30283,
+        "name": "Трусики Huggies для мальчиков 5 12-17кг, 48шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-malchikov-5-12-17kg-48-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 98885,
+        "name": "Трусики Huggies Elite Soft 6 15-25кг, 32шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elite-soft-pants-mega-6-xl-32-sht",
+        "regular_price": 1609,
+        "promo_price": 1099,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 205835,
+        "name": "Подгузники-трусики YokoSun размер XL 12-20кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/38sht-podguzniki-trusiki-yokosun-razmer-xl-12-20-kg",
+        "regular_price": 1789,
+        "promo_price": 1199,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 525400,
+        "name": "Десерт ФрутоНяня Яблоко, банан, клубника, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-yabloko-banan-klubnika-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 116514,
+        "name": "Заменитель грудного молока Similac Гипоаллергенный 1, 750г",
+        "url": "https://online.metro-cc.ru/products/750g-zgm-similak-gipoallergennyj-1",
+        "regular_price": 1829,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 562095,
+        "name": "Салфетки влажные Pamperino детские, 80 листов",
+        "url": "https://online.metro-cc.ru/products/pamperino-vlazhnye-80sht",
+        "regular_price": 161,
+        "promo_price": 82.9,
+        "brand": "PAMPERINO"
+    },
+    {
+        "article": 469517,
+        "name": "Сок ФрутоНяня Яблочный осветленный без сахара, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-iz-yablok-gipoallergennyj-200g",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 226860,
+        "name": "Подгузники-трусики YokoSun Premium размер L 9-14кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/44sht-podguzniki-trusiki-yokosun-premium-l-9-14-kg",
+        "regular_price": 3029,
+        "promo_price": 1299,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 205832,
+        "name": "Подгузники YokoSun на липучках размер L 9-13кг, 54шт",
+        "url": "https://online.metro-cc.ru/products/54sht-podguzniki-yokosun-na-lipuchkah-razmer-l-9-13-kg",
+        "regular_price": 1789,
+        "promo_price": 1199,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 228738,
+        "name": "Трусики-подгузники Lovular Giraffe размер L 8-15кг, 50шт",
+        "url": "https://online.metro-cc.ru/products/50sht-trusiki-podguzniki-lovular-giraffe-l-8-15kg",
+        "regular_price": 1399,
+        "promo_price": 1179,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 30288,
+        "name": "Трусики Huggies для девочек 5 12-17кг, 96шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-devochek-5-12-17kg-disney-box-96-sht",
+        "regular_price": 4349,
+        "promo_price": 2499,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 110587,
+        "name": "Трусики Huggies для мальчиков 6 15-25кг, 88шт",
+        "url": "https://online.metro-cc.ru/products/huggies-6-dlya-malchikov-15-25-kg-88-sht",
+        "regular_price": 4349,
+        "promo_price": 2499,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 580370,
+        "name": "Подгузники-трусики Merries XXL 15-28кг, 26шт",
+        "url": "https://online.metro-cc.ru/products/merries-hxl-15-28kg-26sht",
+        "regular_price": 2279,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 118554,
+        "name": "Заменитель грудного молока Similac Gold 4, 800г",
+        "url": "https://online.metro-cc.ru/products/800g-zgm-similak-gold-4",
+        "regular_price": 1499,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 346432,
+        "name": "Смесь молочная NAN Optipro 2 с 6 месяцев, 800г",
+        "url": "https://online.metro-cc.ru/products/suhaya-molochnaya-nan-optipro-2-800g",
+        "regular_price": 1169,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 128989,
+        "name": "Трусики Lovular Солнечная серия M 6-10кг, 52шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-m-6-10kg-52sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 639108,
+        "name": "Трусики Pampers Premium Care 4 9-15кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/pampers-premium-9-15-kg-38-sht",
+        "regular_price": 1799,
+        "promo_price": 1199,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 640663,
+        "name": "Смесь сухая NAN Тройной комфорт молочная для детей с рождения, 800г",
+        "url": "https://online.metro-cc.ru/products/nan-trojnoj-komfort-suhaya-dlya-detej-s-rozhdeniya-800-g",
+        "regular_price": 1749,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 582153,
+        "name": "Пюре ФрутоНяня Салатик из фруктов с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-salatik-iz-fruktov-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 526384,
+        "name": "Трусики Pampers 4 9-15кг, 46шт",
+        "url": "https://online.metro-cc.ru/products/pampers-4-9-14kg-52sht",
+        "regular_price": 1459,
+        "promo_price": 1299,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 538638,
+        "name": "aro Салфетки влажные детские 75 шт",
+        "url": "https://online.metro-cc.ru/products/aro-vlazhnye-75-sht",
+        "regular_price": 79.9,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 448649,
+        "name": "Сок детский Агуша Яблоко осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-agusha-yabloko-osvetlennyj-200ml",
+        "regular_price": 36.91,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 220098,
+        "name": "Трусики-подгузники Tanoshi для детей L 9-14кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/44sht-trusiki-podguzniki-tanoshi-dlya-detey-l9-14kg",
+        "regular_price": 1829,
+        "promo_price": 1199,
+        "brand": "TANOSHI"
+    },
+    {
+        "article": 30286,
+        "name": "Трусики Huggies для девочек 3 6-11кг, 58шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-devochek-3-6-11kg-58-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 128986,
+        "name": "Подгузники Lovular Солнечная серия L 8-15кг, 42шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-l-8-15kg-42sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 129256,
+        "name": "Смесь NAN Optipro 1 Сухая молочная, 1050г",
+        "url": "https://online.metro-cc.ru/products/nan-optipro-1-suhaya-molochnaya-1050g",
+        "regular_price": 1349,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 203053,
+        "name": "Туалетная бумага Comfort Smart Kids влажная с ромашкой, 42шт",
+        "url": "https://online.metro-cc.ru/products/42sht-vlazhn-tual-bumaga-comfort-smart-kids-s-romashkoy",
+        "regular_price": 80.9,
+        "promo_price": null,
+        "brand": "COMFORT SMART"
+    },
+    {
+        "article": 395387,
+        "name": "Подгузники-трусики Merries M 6-10кг, 58шт",
+        "url": "https://online.metro-cc.ru/products/merries-m-3-6-10kg-58-sht",
+        "regular_price": 2279,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 618062,
+        "name": "Трусики Huggies Elite Soft 5 12-17кг, 34шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elit-soft-5-12-17kg-38sht",
+        "regular_price": 1609,
+        "promo_price": 1099,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 494302,
+        "name": "Пюре ФрутоНяня Яблоко с 4 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-90-g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 205833,
+        "name": "Подгузники-трусики YokoSun размер M 6-10кг, 58шт",
+        "url": "https://online.metro-cc.ru/products/58sht-podguzniki-trusiki-yokosun-razmer-m-6-10-kg",
+        "regular_price": 1789,
+        "promo_price": 1199,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 30285,
+        "name": "Трусики Huggies для мальчиков 4 9-14кг, 52шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-malchikov-4-9-14kg-52-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 205830,
+        "name": "Подгузники YokoSun на липучках размер S до 6кг, 82шт",
+        "url": "https://online.metro-cc.ru/products/82sht-podguzniki-yokosun-na-lipuchkah-razmer-s-do-6-kg",
+        "regular_price": 1789,
+        "promo_price": 1199,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 639107,
+        "name": "Трусики Pampers Premium Care 5 12-17кг, 34шт",
+        "url": "https://online.metro-cc.ru/products/pampers-premium-12-17-kg-34-sht",
+        "regular_price": 1799,
+        "promo_price": 1199,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 469519,
+        "name": "Сок детский ФрутоНяня Яблоко и персик с 5 месяцев, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-iz-yablok-persikov-s-5-mesyacev-02-l",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 355991,
+        "name": "Смесь молочная NAN Optipro 1, 800г",
+        "url": "https://online.metro-cc.ru/products/molochnaya-nan-1-optipro-800g",
+        "regular_price": 1169,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 121045,
+        "name": "Йогурт питьевой Агуша клубника, банан 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-pit-jogurt-27-agusha-klub-banan-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 210898,
+        "name": "Туалетная бумага YokoSun влажная детская, 68шт",
+        "url": "https://online.metro-cc.ru/products/68sht-vlazhnaya-tualetnaya-bumaga-yokosun-detskaya",
+        "regular_price": 199,
+        "promo_price": 139,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 134793,
+        "name": "Трусики Pampers Pants Jumbo размер 7, 34шт",
+        "url": "https://online.metro-cc.ru/products/34sht-trusiki-pampers-pants-jumbo-razmer-7",
+        "regular_price": 1459,
+        "promo_price": 1299,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 619076,
+        "name": "Трусики Huggies Elite Soft 3 6-11кг, 48шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elit-soft-5-6-11kg-54sht",
+        "regular_price": 1609,
+        "promo_price": 1099,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 500363,
+        "name": "Мыло туалетное Тик-Так для детей, 150г",
+        "url": "https://online.metro-cc.ru/products/tualetnoe-mylo-dlya-detej-tik-tak-150g",
+        "regular_price": 72.9,
+        "promo_price": null,
+        "brand": "ТИК-ТАК"
+    },
+    {
+        "article": 482108,
+        "name": "Пюре мясное ФрутоНяня Говядина с 6 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-frutonyanya-iz-govyadiny-6-mesyacev-80g",
+        "regular_price": 79.9,
+        "promo_price": 76.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 71497,
+        "name": "Молоко Тема детское ультрапастеризованное с 8 месяцев 3.2%, 200мл",
+        "url": "https://online.metro-cc.ru/products/tema-pityevoe-ultrapasterizovannoe-dlya-detej-s-12mesyacev-32-200g",
+        "regular_price": 40.49,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 394217,
+        "name": "Подгузники Merries L 9-14кг, 54шт",
+        "url": "https://online.metro-cc.ru/products/merries-l-9-14kg-54-sht",
+        "regular_price": 2309,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 31474,
+        "name": "Молочко детское Nutrilon Premium 4, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/nutrilon-premium-4-1200g",
+        "regular_price": 1669,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 30280,
+        "name": "Трусики Huggies для девочек 6 15-25кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-devochek-6-15-25kg-44-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 102706,
+        "name": "Салфетки влажные Huggies Elite Soft, 168 листов",
+        "url": "https://online.metro-cc.ru/products/salfetki-huggies-elite-soft-168sht",
+        "regular_price": 509,
+        "promo_price": null,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 648422,
+        "name": "Смесь молочная Nutrilon Комфорт 2, 800г",
+        "url": "https://online.metro-cc.ru/products/molochnaya-nutrilon-komfort-2-800g",
+        "regular_price": 1869,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 529560,
+        "name": "Трусики Pampers Pants 3 6-11кг, 52шт",
+        "url": "https://online.metro-cc.ru/products/pampers-pants-3-6-11-kg-60sht",
+        "regular_price": 1459,
+        "promo_price": 1299,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 526375,
+        "name": "Трусики Pampers Pants 6 Extra Large 16+ кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/pampers-6-16-kg-44sht",
+        "regular_price": 1459,
+        "promo_price": 1299,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 128988,
+        "name": "Подгузники Lovular Солнечная серия M 6-11кг, 48шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-m-6-11kg-48sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 131431,
+        "name": "Ряженка Агуша 3.2%, 180г",
+        "url": "https://online.metro-cc.ru/products/ryazhenka-agusha-32-180g-bzmzh",
+        "regular_price": 44.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 202853,
+        "name": "Салфетки влажные Lovular Hot Wind 0+, 96шт",
+        "url": "https://online.metro-cc.ru/products/96sht-vlazhnye-salfetki-lovular-hot-wind-0",
+        "regular_price": 239,
+        "promo_price": 169,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 417707,
+        "name": "Крем-мыло жидкое Ушастый нянь для детей, 300мл",
+        "url": "https://online.metro-cc.ru/products/ushastyj-nyan-krem-mylo-zhidkoe-dlya-detej-300ml",
+        "regular_price": 129,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 496564,
+        "name": "Биолакт Тема сладкий с 8 месяцев 3.2%, 208г",
+        "url": "https://online.metro-cc.ru/products/biolakt-tema-32-208g-bzmzh",
+        "regular_price": 50,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 571427,
+        "name": "Пюре фруктовое ФрутоНяня Груша с 4 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/pyure-fruktovoe-frutonyanya-grusha-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 121047,
+        "name": "Йогурт питьевой Агуша яблоко зеленое и мелисса 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-pit-jogurt-27-agusha-yabl-melis-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 202332,
+        "name": "Смесь Нэнни молочная классика, 800г",
+        "url": "https://online.metro-cc.ru/products/800g-molochnaya-smes-nenni-klassika",
+        "regular_price": 3439,
+        "promo_price": null,
+        "brand": "НЭННИ"
+    },
+    {
+        "article": 653637,
+        "name": "Смесь молочная Nutrilon Premium 2, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/molochnaya-nutrilon-premium-2-1200g",
+        "regular_price": 1359,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 202331,
+        "name": "Смесь Нэнни 4 молочная, 800г",
+        "url": "https://online.metro-cc.ru/products/800g-molochnaya-smes-nenni-4",
+        "regular_price": 3839,
+        "promo_price": 3189,
+        "brand": "НЭННИ"
+    },
+    {
+        "article": 637321,
+        "name": "Салфетки влажные Pamperino детские, 56 листов",
+        "url": "https://online.metro-cc.ru/products/vlazhnye-pamperino-56sht",
+        "regular_price": 114,
+        "promo_price": null,
+        "brand": "PAMPERINO"
+    },
+    {
+        "article": 650662,
+        "name": "Салфетки влажные Lovular Hot Wind для чувствительной кожи новорожденных и детей, 64 листа",
+        "url": "https://online.metro-cc.ru/products/vlazhnye-lovular-bez-lipkosti-zapaha-spirta-64-sht",
+        "regular_price": 199,
+        "promo_price": 119,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 587210,
+        "name": "Подгузники Huggies Elite Soft 5 12-22кг, 42шт",
+        "url": "https://online.metro-cc.ru/products/podgusniki-huggies-elite-soft-5-12",
+        "regular_price": 3059,
+        "promo_price": 1249,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 131428,
+        "name": "Пюре Тема цыпленок-говядина, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-cyplenkom-govyadinoj-s-6-mes-90g",
+        "regular_price": 92.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 481458,
+        "name": "Пюре ФрутоНяня Из яблок с 4 месяцев, 250г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-s-4-mesyacev-250g",
+        "regular_price": 79.9,
+        "promo_price": 73.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 215295,
+        "name": "Смесь молочная Nutrilon гиполлергенная 2, 800г",
+        "url": "https://online.metro-cc.ru/products/800g-molochnaya-smes-nutrilon-ga-2",
+        "regular_price": 1999,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 30282,
+        "name": "Трусики Huggies для девочек 5 12-17кг, 48шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-devochek-5-12-17kg-48-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 128984,
+        "name": "Трусики Lovular Солнечная серия Xxl 15-25кг, 32шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-xxl-15-25kg-32sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 118627,
+        "name": "Пюре ФрутоНяня Ризотто из цыпленка с овощами с 8 месяцев, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-rizotto-frutonyanya-iz-cyplenka-s-ovoschami",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 639103,
+        "name": "Подгузники Pampers active baby-dry 13-18кг, 52шт",
+        "url": "https://online.metro-cc.ru/products/pampers-active-baby-dry-13-18kg-jumbo-pack-52sht",
+        "regular_price": 1779,
+        "promo_price": 1599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 615742,
+        "name": "Напиток сокосодержащий Агуша Вода и Сок Яблоко, 300мл",
+        "url": "https://online.metro-cc.ru/products/art_615742",
+        "regular_price": 58.91,
+        "promo_price": 49.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 139396,
+        "name": "Печенье детское Fleur Alpine с яблочным соком, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pechene-detskoe-fleur-alpine-s-yablochnym-sokom",
+        "regular_price": 319,
+        "promo_price": 279,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 128980,
+        "name": "Трусики ночные Lovular Xl 12-17кг, 18шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-lovular-xl-12-17kg-18sht",
+        "regular_price": 1019,
+        "promo_price": 649,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 217300,
+        "name": "Биотворог Тема натуральный 4.5%, 95г",
+        "url": "https://online.metro-cc.ru/products/95g-biotvorog-45-tema-naturalnyy-bzmzh",
+        "regular_price": 40.99,
+        "promo_price": 32.9,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 538028,
+        "name": "Пюре ФрутоНяня из мяса птицы с 6+ месяцев цыпленок, 80г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-myasa-pticy-s-6-mesyacev-cyplenok-80g",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 206002,
+        "name": "Салфетки влажные YokoSun детские, 64шт",
+        "url": "https://online.metro-cc.ru/products/64sht-vlazhnye-salfetki-yokosun-detskie",
+        "regular_price": 177,
+        "promo_price": 129,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 561422,
+        "name": "Напиток PediaSure Малоежка со вкусом ванили, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_561422",
+        "regular_price": 152,
+        "promo_price": null,
+        "brand": "PEDIASURE"
+    },
+    {
+        "article": 109378,
+        "name": "Смесь молочная Similac Комфорт 1 для детей с рождения, 750г",
+        "url": "https://online.metro-cc.ru/products/detskaya-similac-classic-1-750g",
+        "regular_price": 1889,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 204093,
+        "name": "Нектар Сады Придонья Яблоко и персик, 200мл",
+        "url": "https://online.metro-cc.ru/products/sady-pridonya-yabloko-persik-02-l",
+        "regular_price": 26.9,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 616843,
+        "name": "Пюре ФрутоНяня Яблоко, банан и груша с печеньем с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-yabloko-banan-grusha-pechenye-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 570002,
+        "name": "Творог Агуша Засыпайка клубника, банан и мелисса 3.8%, 100г",
+        "url": "https://online.metro-cc.ru/products/agusha-zasypaj-ka-klubnika-banan-melissa-38-100g-bzmzh",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 338911,
+        "name": "Подгузники Huggies Elite soft для новорожденных 2 4-6кг, 82шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elite-soft-2-3-6kg-88sht-",
+        "regular_price": 1999,
+        "promo_price": 1399,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 110584,
+        "name": "Трусики Huggies Elite Soft 5 ночные 12-17кг, 17шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-huggies-elite-soft-5-12-17kg-17-sht",
+        "regular_price": 1219,
+        "promo_price": 699,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 225139,
+        "name": "aro Салфетки влажные детские ромашка-алоэ вера, 120шт",
+        "url": "https://online.metro-cc.ru/products/120sht-salfetki-vlazhnye-aro-detskie-romashkaaloe-vera",
+        "regular_price": 97.9,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 272654,
+        "name": "Молоко Агуша обогащенное витаминами стерилизованное 3.2%, 500г",
+        "url": "https://online.metro-cc.ru/products/moloko-agusha-sterilizovannoe-s-vitaminami-a-s-05-l-bzmzh",
+        "regular_price": 74.9,
+        "promo_price": 72.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 662337,
+        "name": "Смесь молочная Similac Classic 3, 600г",
+        "url": "https://online.metro-cc.ru/products/molochnaya-similac-classic-3-600g",
+        "regular_price": 779,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 546116,
+        "name": "Творожок Растишка с лесными ягодами, персиком и грушей 3.5% (45г х 6шт), 270г",
+        "url": "https://online.metro-cc.ru/products/tvorozhok-danone-rastishka-lesnye-yagody-6h45g",
+        "regular_price": 93.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 216765,
+        "name": "Смесь Similac Комфорт 2 молочная, 375г",
+        "url": "https://online.metro-cc.ru/products/smes-similac-komfort-2-molochnaya-375g",
+        "regular_price": 1119,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 469628,
+        "name": "Сок Сады Придонья Яблочно-виноградный осветленный восстановленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-sady-pridonya-yablochno-vinogradnyj-200ml",
+        "regular_price": 26.9,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 657996,
+        "name": "Пюре ФрутоНяня Говядина овощи с 8 месяцев, 100г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-govyadina-ovoschi-8-mesyacev-100g",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 663813,
+        "name": "Фруктовые кусочки ФрутоНяня из яблока и малины Осьминожки, 16г",
+        "url": "https://online.metro-cc.ru/products/fruktovye-kusochki-frutonyanya-bez-dobavleniya-sahara-16-g",
+        "regular_price": 59.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 132288,
+        "name": "Трусики Pampers Active Baby Pants Junior 12-17кг, 84шт",
+        "url": "https://online.metro-cc.ru/products/trusiki-pampers-active-baby-pants-junior-12-17kg-84sht",
+        "regular_price": 3119,
+        "promo_price": 2599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 132289,
+        "name": "Трусики Pampers Active Baby Pants Maxi 9-15кг, 92шт",
+        "url": "https://online.metro-cc.ru/products/trusiki-pampers-active-baby-pants-maxi-9-15kg-92sht",
+        "regular_price": 3119,
+        "promo_price": 2599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 200415,
+        "name": "Кусочки ФрутоНяня фруктовые яблоко-вишня, 15г",
+        "url": "https://online.metro-cc.ru/products/15g-fruktovye-kusochki-frutonyanya-yablokovishnya-sashe",
+        "regular_price": 42.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 30279,
+        "name": "Трусики Huggies для девочек 4 9-14кг, 104шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-devochek-4-9-14kg-disney-box-104-sht",
+        "regular_price": 4349,
+        "promo_price": 2499,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 118463,
+        "name": "Печенье ФрутоНяня пшеничное, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pechenye-frutonyanya-pshenichnoe",
+        "regular_price": 114,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 281431,
+        "name": "Биойогурт питьевой Тема малина, шиповник с 8 месяцев 2.8%, 210г",
+        "url": "https://online.metro-cc.ru/products/tema-pityevoj-malina-shipovnik-s-8-mesyacev-210g",
+        "regular_price": 62.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 200722,
+        "name": "Смесь Малютка 2 молочная, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/1200g-molochnaya-smes-malyutka-2",
+        "regular_price": 1219,
+        "promo_price": null,
+        "brand": "МАЛЮТКА"
+    },
+    {
+        "article": 494303,
+        "name": "Пюре ФрутоНяня Яблоко, банан с творогом с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-bananov-s-tvorogom-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 639104,
+        "name": "Подгузники Pampers active baby-dry 11-16кг, 60шт",
+        "url": "https://online.metro-cc.ru/products/pampers-active-baby-dry-11-16kg-jumbo-pack-60sht",
+        "regular_price": 1779,
+        "promo_price": 1599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 205831,
+        "name": "Подгузники YokoSun на липучках размер M до 5-10кг, 62шт",
+        "url": "https://online.metro-cc.ru/products/62sht-podguzniki-yokosun-na-lipuchkah-razmer-m-5-10-kg",
+        "regular_price": 1789,
+        "promo_price": 1199,
+        "brand": "YOKOSUN"
+    },
+    {
+        "article": 220099,
+        "name": "Трусики-подгузники Tanoshi для детей XL 12-22кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/38sht-trusiki-podguzniki-tanoshi-dlya-detey-xl12-22kg",
+        "regular_price": 1829,
+        "promo_price": 1199,
+        "brand": "TANOSHI"
+    },
+    {
+        "article": 200410,
+        "name": "Кусочки ФрутоНяня фруктовые яблоко-персик-маракуйя, 15г",
+        "url": "https://online.metro-cc.ru/products/15g-fruktovye-kusochki-frutonyanya-yablokopersikmarak",
+        "regular_price": 48.99,
+        "promo_price": 42.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 139394,
+        "name": "Печенье детское Fleur Alpine с грушевым соком, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pechene-detskoe-fleur-alpine-s-grushevym-sokom",
+        "regular_price": 319,
+        "promo_price": 279,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 200478,
+        "name": "Пюре ФрутоНяня Индейка-овощи, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-frutonyanya-indejka-ovoschi-100g",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 118625,
+        "name": "Десерт ФрутоНяня Яблоко, клубника, малина, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-frutonyanya-iz-yablok-klubniki-maliny",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 637314,
+        "name": "Трусики Merries L 9-14кг, 88шт",
+        "url": "https://online.metro-cc.ru/products/merries-l-9-14-kg-88-sht",
+        "regular_price": 4679,
+        "promo_price": null,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 217297,
+        "name": "Биотворог Тема клубника-банан 4%, 95г",
+        "url": "https://online.metro-cc.ru/products/95g-biotvorog-4-tema-klubnikabanan-bzmzh",
+        "regular_price": 40.49,
+        "promo_price": 32.9,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 128979,
+        "name": "Трусики ночные Lovular Xxl 15-25кг, 17шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-lovular-xxl-15-25kg-17sht",
+        "regular_price": 1019,
+        "promo_price": 649,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 602231,
+        "name": "Йогурт Растишка яблоко, груша и печенье 3%, 118г",
+        "url": "https://online.metro-cc.ru/products/rastishka-yabloko-grusha-s-pechenyem-115-g",
+        "regular_price": 51.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 394221,
+        "name": "Подгузники Merries для новорожденных 1 до 5кг, 90шт",
+        "url": "https://online.metro-cc.ru/products/merries-dlya-novorozhdennyh-1-do-5-kg-90-sht",
+        "regular_price": 2309,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 200409,
+        "name": "Пюре ФрутоНяня цыпленок-говядина, 80г",
+        "url": "https://online.metro-cc.ru/products/80g-pyure-frutonyanya-tsyplenokgovyadina",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 619075,
+        "name": "Трусики Huggies Elite Soft 4 9-14кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elit-soft-5-9-14kg-42sht",
+        "regular_price": 1609,
+        "promo_price": 1099,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 639114,
+        "name": "Подгузники Pampers Premium Care midi 6-10кг, 52шт",
+        "url": "https://online.metro-cc.ru/products/pampers-premium-care-midi-3-6-10kg-52sht",
+        "regular_price": 1499,
+        "promo_price": null,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 215293,
+        "name": "Смесь молочная Nutrilon гипоаллергенная 1, 800г",
+        "url": "https://online.metro-cc.ru/products/800g-molochnaya-smes-nutrilon-ga-1",
+        "regular_price": 2149,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 127182,
+        "name": "Творог Агуша детский классический 4.5%, 50г",
+        "url": "https://online.metro-cc.ru/products/tvorog-detskij-klassicheskij-45-agusha-50g-bzmzh",
+        "regular_price": 24.99,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 525398,
+        "name": "Десерт ФрутоНяня Яблоко, вишня, рябина, черная смородина 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-yabloko-vishnya-ryabina-chernaya-smorodina-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 460052,
+        "name": "Биойогурт питьевой Тема банан и земляника с 8 месяцев 2.8%, 210г",
+        "url": "https://online.metro-cc.ru/products/art_460052",
+        "regular_price": 62.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 632015,
+        "name": "Сок детский ФрутоНяня Яблоко и вишня осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-osvetlennyj-yabloko-vishnya-02-l",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 201264,
+        "name": "Сок Сады Придонья зеленое яблоко, 200мл",
+        "url": "https://online.metro-cc.ru/products/02l-sok-sady-pridonya-zelenoe-yabloko",
+        "regular_price": 26.9,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 110585,
+        "name": "Трусики Huggies Elite Soft 6 ночные 15-25кг, 16шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-huggies-s6-15-25kg-16sht",
+        "regular_price": 1219,
+        "promo_price": 699,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 137228,
+        "name": "Пюре Бабушкино Лукошко индейка, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-babushkino-lukoshko-indeyka-100g",
+        "regular_price": 111,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 132606,
+        "name": "Трусики Merries Good Skin размер XL 12-19кг, 38шт",
+        "url": "https://online.metro-cc.ru/products/trusiki-merries-good-skin-razmer-xl-12-19kg-38sht",
+        "regular_price": 1529,
+        "promo_price": 1399,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 561407,
+        "name": "Пюре ФрутоНяня Витаминный салатик с 5 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-vitaminnyj-salatik-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 582154,
+        "name": "Пюре детское ФрутоНяня Кролик с 6 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-krolik-80g",
+        "regular_price": 122,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 125335,
+        "name": "Каша овсяная ФрутоНяня молочная с бананом с 6 месяцев, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-frutonyanya-ovsyanaya-s-bananom-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 246703,
+        "name": "Гель для купания Bubchen детский, 400мл",
+        "url": "https://online.metro-cc.ru/products/gel-bubsnen-400ml",
+        "regular_price": 729,
+        "promo_price": null,
+        "brand": "BUBCHEN"
+    },
+    {
+        "article": 200489,
+        "name": "Пюре ФрутоНяня говядина-гречка, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-pyure-frutonyanya-govyadinagrechka",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 494309,
+        "name": "Пюре ФрутоНяня Яблоко, абрикос и сливки с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-abrikosov-so-slivkami-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 121046,
+        "name": "Йогурт питьевой Агуша яблоко и груша 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-pit-jogurt-27-agusha-yabl-grusha-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 213972,
+        "name": "Биолакт Тема клубника-банан 3%, 206г",
+        "url": "https://online.metro-cc.ru/products/206g-biolakt-3-tema-klubnikabanan-bzmzh",
+        "regular_price": 50,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 471507,
+        "name": "Сок детский ФрутоНяня Яблоко прямого отжима, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-yablochnyj-pryamogo-otzhima-200g",
+        "regular_price": 39.99,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 518434,
+        "name": "Пюре фруктовое Агуша Яблоко с 4 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/agusha-yabloko-90g",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 589978,
+        "name": "aro Подгузники-трусики MAXI размер 4 8-13 кг, 48шт",
+        "url": "https://online.metro-cc.ru/products/art_589978",
+        "regular_price": 959,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 131427,
+        "name": "Пюре Тема телятина, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-telyatinoj-s-6-mes-90g",
+        "regular_price": 105,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 200688,
+        "name": "Пюре ФрутоНяня говядина-рис-овощи, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-pyure-frutonyanya-govyadinarisovoschi",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 117078,
+        "name": "Батончик фруктовый Агуша Яблоко+клубника+злаки, 15г",
+        "url": "https://online.metro-cc.ru/products/batonchik-fruktovyj-agusha-yabloko-klubnika-zlaki-15g",
+        "regular_price": 45.99,
+        "promo_price": 40.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 116513,
+        "name": "Заменитель грудного молока Similac Гипоаллергенный 2, 750г",
+        "url": "https://online.metro-cc.ru/products/750g-zgm-similak-gipoallergennyj-2",
+        "regular_price": 1829,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 131425,
+        "name": "Пюре Тема индейка, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-indejkoj-s-6-mes-90g",
+        "regular_price": 105,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 141564,
+        "name": "Вафли Take a Bite детские шоколад, 35г",
+        "url": "https://online.metro-cc.ru/products/35g-detskie-vafli-take-a-bitey-shokolad",
+        "regular_price": 66.99,
+        "promo_price": 55.9,
+        "brand": "TAKE A BITE"
+    },
+    {
+        "article": 471719,
+        "name": "Кашка ФрутоНяня молочно-рисовая, 200г",
+        "url": "https://online.metro-cc.ru/products/kashka-frutonyanya-molochno-risovaya-200g-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 650664,
+        "name": "Фито-салфетки влажные Lovular для детей и новорожденных, 80листов",
+        "url": "https://online.metro-cc.ru/products/vlazhnye-fito-lovular-80-sht",
+        "regular_price": 309,
+        "promo_price": 239,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 202846,
+        "name": "Шампунь Ушастый нянь детский для чувствительной кожи, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-shampun-ushastyy-nyan-detskiy-dchuvstv-kozhi",
+        "regular_price": 141,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 216766,
+        "name": "Морс ФрутоНяня клюква-малина, 200мл",
+        "url": "https://online.metro-cc.ru/products/mors-frutonyanya-klyukva-malina-200ml-216766",
+        "regular_price": 46.99,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 118624,
+        "name": "Пюре мясное ФрутоНяня Индейка с 6 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/80g-frutonyanya-iz-myasa-indejki",
+        "regular_price": 95.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 106999,
+        "name": "Пюре ФрутоНяня Яблоко, земляника, ежевика с овсяным печеньем с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/pyure-frutonyanya-yabloko-zemlyanika-ezhevika-s-ovsyanym-pechenyem-90g",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 223649,
+        "name": "Гель для душа и шампунь Synergetic без слез детский 0+, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-shampun-gel-synergetic-detskiy-0-bez-slez",
+        "regular_price": 399,
+        "promo_price": 179,
+        "brand": "SYNERGETIC"
+    },
+    {
+        "article": 30284,
+        "name": "Трусики Huggies для девочек 4 9-14кг, 52шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-devochek-4-9-14kg-52-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 118530,
+        "name": "Печенье ФрутоНяня овсяное, 50г",
+        "url": "https://online.metro-cc.ru/products/50g-pechenye-frutonyanya-ovsyanoe",
+        "regular_price": 44.99,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 471496,
+        "name": "Пюре овощное ФрутоНяня Тыква с 5 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-tykva-80-g",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 216768,
+        "name": "Морс ФрутоНяня клюква-черника-вишня, 200мл",
+        "url": "https://online.metro-cc.ru/products/mors-frutonyanya-klyukva-chernika-vishnya-200ml",
+        "regular_price": 46.99,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 585812,
+        "name": "Смесь молочная Kabrita 1 Gold на козьем молоке для комфортного пищеварения с 0 месяцев, 800г",
+        "url": "https://online.metro-cc.ru/products/suhaya-molochnaya-smes-kabrita-gold-1-na-osnove-kozyego-800g",
+        "regular_price": 4309,
+        "promo_price": 3569,
+        "brand": "KABRITA"
+    },
+    {
+        "article": 469515,
+        "name": "Сок детский ФрутоНяня Груша осветленный гипоаллергенный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-iz-grush-osvetlennyj-bez-sahara-200ml",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 47974,
+        "name": "Малоежка PediaSure ваниль, 400г",
+        "url": "https://online.metro-cc.ru/products/maloezhka-pediasure-vanil-400g",
+        "regular_price": 899,
+        "promo_price": null,
+        "brand": "PEDIASURE"
+    },
+    {
+        "article": 581578,
+        "name": "Творожок Растишка с клубникой, бананом и печеньем 3.5%, 108г",
+        "url": "https://online.metro-cc.ru/products/tvorozhnyj-rastishka-klubnika-banan-s-pechenyem-100g",
+        "regular_price": 66.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 607777,
+        "name": "Компот ФрутоНяня вишня и малина, 500мл",
+        "url": "https://online.metro-cc.ru/products/kompot-frutonyanya-vishnya-malina-05-l",
+        "regular_price": 86.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200689,
+        "name": "Суп ФрутоНяня овощной с цыпленком, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-ovoschnoy-sup-frutonyanya-s-tsyplenkom",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 469532,
+        "name": "Пюре ФрутоНяня Из яблок и груш с 5 месяцев, 250г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-grush-so-slivkami-250g",
+        "regular_price": 79.9,
+        "promo_price": 73.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200408,
+        "name": "Пюре ФрутоНяня кролик-рис-брокколи, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-pyure-frutonyanya-krolikrisbrokkoli",
+        "regular_price": 83.9,
+        "promo_price": 71.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 648425,
+        "name": "Смесь молочная Nutrilon Пепти Аллергия, 800г",
+        "url": "https://online.metro-cc.ru/products/suhaya-nutrilon-pepti-allergiya-800g",
+        "regular_price": 2999,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 620050,
+        "name": "Каша Агуша Засыпайка злаки, груша и банан молочная 2.7%, 200мл",
+        "url": "https://online.metro-cc.ru/products/detskaya-agusha-molochno-zlakovaya-s-grushej-bananom-s-6-mesyacev-200ml-bzmzh",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 546654,
+        "name": "Коктейль молочный ФрутоНяня малина 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_546654",
+        "regular_price": 42.99,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 202028,
+        "name": "Йогурт Агуша Я сам клубника-земляника 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-27-agusha-ya-sam-klubnikazemlyanka-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 118522,
+        "name": "Кусочки фруктовые ФрутоНяня Улитки из яблок, клубники и бананов, 15г",
+        "url": "https://online.metro-cc.ru/products/15g-frukt-kus-frutonyanya-iz-yabl-banan-klub-ulit",
+        "regular_price": 58.91,
+        "promo_price": 52.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 650768,
+        "name": "Кусочки фруктовые ФрутоНяня из яблок и малины, 15г",
+        "url": "https://online.metro-cc.ru/products/kusochki-fruktovye-frutonyanya-yabloko-malina-15g",
+        "regular_price": 43.99,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 102705,
+        "name": "Салфетки влажные Huggies All Over Clean, 56 листов",
+        "url": "https://online.metro-cc.ru/products/vlazhnye-salfetki-huggies-classic-128-sht",
+        "regular_price": 169,
+        "promo_price": 119,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 125113,
+        "name": "Кашка ФрутоНяня рисовая с малиной молочная, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-risovaya-frutonyanya-s-malinoj-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 248138,
+        "name": "Подгузники Huggies Classic 3 4-9кг, 78шт",
+        "url": "https://online.metro-cc.ru/products/huggies-classic-3-4-9kg-78sht-",
+        "regular_price": 1519,
+        "promo_price": 999,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 471721,
+        "name": "Кашка ФрутоНяня мультизлаковая молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-molochnaya-multizlakovaya-200g-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 201269,
+        "name": "Сок Сады Придонья яблоко-вишня, 200мл",
+        "url": "https://online.metro-cc.ru/products/02l-sok-sady-pridonya-yablokovishnya",
+        "regular_price": 28.49,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 211923,
+        "name": "Салфетки влажные Pamperino Viscoze детские алоэ N50, 3шт",
+        "url": "https://online.metro-cc.ru/products/3h50sht-detskie-vlazhnye-salfetki-pamperino-viscoze-aloe",
+        "regular_price": 239,
+        "promo_price": 169,
+        "brand": "PAMPERINO"
+    },
+    {
+        "article": 269522,
+        "name": "Творог Агуша фруктовый персик 3.9%, 100г",
+        "url": "https://online.metro-cc.ru/products/agusha-persik-39-100g-bzmzh",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 417985,
+        "name": "Мыло жидкое Мое солнышко с экстрактом ромашки с дозатором, 300мл",
+        "url": "https://online.metro-cc.ru/products/mylo-zhidkoe-s-zkstraktom-romashki-moe-solnyshko-s-dozatorom-300-ml",
+        "regular_price": 99.9,
+        "promo_price": null,
+        "brand": "МОЕ СОЛНЫШКО"
+    },
+    {
+        "article": 128981,
+        "name": "Трусики ночные Lovular L 9-14кг, 19шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-lovular-l-9-14kg-19sht",
+        "regular_price": 1019,
+        "promo_price": 649,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 94165,
+        "name": "Каша Fleur Alpine гречневая безмолочная детская гипоаллергенная с 4 месяцев, 175г",
+        "url": "https://online.metro-cc.ru/products/grechnevaya-gipollergennaya-fleur-alpine-175g",
+        "regular_price": 519,
+        "promo_price": 459,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 217804,
+        "name": "Молоко Тема детское обогащенное ультрапастеризованное с 8 месяцев 3.2%, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_217804",
+        "regular_price": 45.49,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 529635,
+        "name": "Творожок Растишка со вкусом клубники, банана и пломбира 3.5% (45г х 6шт), 270г",
+        "url": "https://online.metro-cc.ru/products/tvorozhok-danone-rastishka-klubnika-banan-vkus-plombira-6h45g",
+        "regular_price": 93.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 131422,
+        "name": "Пюре Тема Говядина-печень, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-govyadinoj-pechenyu-s-8-mes-90g",
+        "regular_price": 105,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 131424,
+        "name": "Пюре Тема говядина-язык, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-govyadinoj-yazykom-s-8-mes-90g",
+        "regular_price": 105,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 51430,
+        "name": "Пюре ФрутоНяня Яблоко, манго и йогурт с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-90-g-51430",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 213971,
+        "name": "Биолакт Тема персик-груша 3%, 206г",
+        "url": "https://online.metro-cc.ru/products/206g-biolakt-3-tema-persikgrusha-bzmzh",
+        "regular_price": 50,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 110586,
+        "name": "Трусики Huggies Elite Soft 3 ночные 6-11кг, 23шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-huggies-s3-6-11kg-23sht",
+        "regular_price": 1219,
+        "promo_price": 699,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 422096,
+        "name": "Пюре ФрутоНяня Цветная капуста с 4 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/pyure-frutonyanya-cvetnaya-kapusta-80g",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 118521,
+        "name": "Кусочки фруктовые ФрутоНяня Улитки из яблок и малины, 15г",
+        "url": "https://online.metro-cc.ru/products/15g-frukt-kusochki-frutonyanya-yabl-mal-ulitki",
+        "regular_price": 58.91,
+        "promo_price": 52.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 94496,
+        "name": "Батончик фруктово-злаковый ФрутоНяня с яблоком, бананом и грушей, 25г",
+        "url": "https://online.metro-cc.ru/products/batonchik-fruktovo-zlakovyj-frutonyanya-yabloko-banan-grusha-25-g",
+        "regular_price": 46.49,
+        "promo_price": 40.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 620622,
+        "name": "Сок детский ФрутоНяня Мультифрукт, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_620622",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 94160,
+        "name": "Каша Fleur Alpine овсяная молочная с грушей с 5 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/ovsyanaya-molochnaya-s-grushej-fleur-alpine-200g",
+        "regular_price": 449,
+        "promo_price": 379,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 94161,
+        "name": "Каша Fleur Alpine Альпийский вечер молочная детская с 6 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/kasha-molochnaya-alpijskij-vecher-fleur-alpine-200g",
+        "regular_price": 449,
+        "promo_price": 379,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 94498,
+        "name": "Батончик злаково-фруктовый ФрутоНяня с яблоком, бананом и клубникой, 25г",
+        "url": "https://online.metro-cc.ru/products/batonchik-fruktovo-zlakovyj-frutonyanya-yabloko-banan-klubnika-25-g",
+        "regular_price": 46.49,
+        "promo_price": 40.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 627848,
+        "name": "Пюре фруктовое Агуша Яблоко, малина и шиповник с 5 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-yabloko-malina-shipovnik-90g-",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 130348,
+        "name": "Биолакт Тема яблоко-груша 3%, 206г",
+        "url": "https://online.metro-cc.ru/products/206g-biolakt-3-tema-yabloko-grusha-bzmzh",
+        "regular_price": 50,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 217298,
+        "name": "Биотворог Тема яблоко-персик-банан 4%, 95г",
+        "url": "https://online.metro-cc.ru/products/95g-biotvorog-4-tema-yablokopersikbanan-bzmzh",
+        "regular_price": 40.49,
+        "promo_price": 32.9,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 202102,
+        "name": "Коктейль ФрутоНяня молочный клубника-земляника 2.1%, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kokteyl-21-frutonyanya-molochn-klubzeml-bzmzh",
+        "regular_price": 42.99,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 97741,
+        "name": "Творог Агуша фруктовый черника 3.9%, 100г",
+        "url": "https://online.metro-cc.ru/products/agusha-chernika-39-100g-bzmzh",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 469600,
+        "name": "Сок Малышам Яблоко осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-malysham-yabloko-02-l",
+        "regular_price": 28.49,
+        "promo_price": null,
+        "brand": "МАЛЫШАМ"
+    },
+    {
+        "article": 200702,
+        "name": "Пюре ФрутоНяня цыпленок-картофель-морковь, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-pyure-frutonyanya-tsyplenokkartofelmorkov",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 137226,
+        "name": "Пюре Бабушкино Лукошко горбуша-картофель, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-babushkino-lukoshko-gorbusha-kartofel-100g",
+        "regular_price": 85.9,
+        "promo_price": 79.9,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 495245,
+        "name": "Творог Агуша фруктовый злаки 3.9% 100г",
+        "url": "https://online.metro-cc.ru/products/agusha-zlaki-39-100g-bzmzh",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 589976,
+        "name": "aro Подгузники-трусики XL 16+, 40шт",
+        "url": "https://online.metro-cc.ru/products/art_589976",
+        "regular_price": 959,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 471723,
+        "name": "Кашка ФрутоНяня молочно-пшеничная, 200г",
+        "url": "https://online.metro-cc.ru/products/kashka-frutonyanya-molochno-pshenichnaya-200g-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 657916,
+        "name": "Каша Heinz пшеничная с тыквой молочная быстрорастворимая с омега-3 с 5 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/heinz-molochnaya-pshenichnaya-s-tykvoj-omega-3-200g",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 115750,
+        "name": "Молоко Тема детское ультрапастеризованное 3.2% с 3 лет, 500мл",
+        "url": "https://online.metro-cc.ru/products/tema-detskoe-s-8-mesyacev-500ml",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 627845,
+        "name": "Пюре фруктовое Агуша Яблоко, ежевика и малина с 5 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-yabloko-malina-ezhevika-90g-",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 481467,
+        "name": "Пюре ФрутоНяня Чернослив с 4 месяцев, 100г",
+        "url": "https://online.metro-cc.ru/products/art_481467",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 204108,
+        "name": "Сок детский Сады Придонья Мультифрукт, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-sady-pridonya-multifrukt-02-l",
+        "regular_price": 26.9,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 469521,
+        "name": "Нектар ФрутоНяня из бананов с мякотью, 200г",
+        "url": "https://online.metro-cc.ru/products/nektar-frutonyanya-iz-bananov-s-myakotyu-200g-469521",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 30278,
+        "name": "Трусики Huggies для мальчиков 4 9-14кг, 104шт",
+        "url": "https://online.metro-cc.ru/products/huggies-disney-box-dlya-malchikov-4-9-14kg-104-sht",
+        "regular_price": 4349,
+        "promo_price": 2499,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 94164,
+        "name": "Каша Fleur Alpine три злака безмолочная детская с 6 месяцев, 175г",
+        "url": "https://online.metro-cc.ru/products/tri-zlaka-fleur-alpine-175g",
+        "regular_price": 389,
+        "promo_price": 339,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 650771,
+        "name": "Фруктовые кусочки ФрутоНяня Яблоко-персик без сахара, 53г",
+        "url": "https://online.metro-cc.ru/products/kusochki-fruktovye-frutonyanya-yabloko-persik-53g",
+        "regular_price": 157,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 224740,
+        "name": "Мыло Завод Братьев Крестовниковых для детей крем-череда, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-mylo-zavod-bratev-krestovnikovyh-ddetey-kremchereda",
+        "regular_price": 169,
+        "promo_price": 89.9,
+        "brand": "ЗАВОД БРАТЬЕВ КРЕСТОВНИКОВЫХ"
+    },
+    {
+        "article": 622772,
+        "name": "Смесь молочная Nutrilon Premium 1, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/molochnaya-nutrilon-premium-1-1200g",
+        "regular_price": 1359,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 106997,
+        "name": "Палочки кукурузные ФрутоНяня Яблоко и банан, 20г",
+        "url": "https://online.metro-cc.ru/products/palochki-frutonyanya-kukuruznye-yabloko-banan-20g",
+        "regular_price": 55.9,
+        "promo_price": 47.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 447892,
+        "name": "Сок детский Агуша Яблоко осветленный, 500мл",
+        "url": "https://online.metro-cc.ru/products/sok-agusha-yabloko-osvetlennyj-500ml-",
+        "regular_price": 74.9,
+        "promo_price": 68.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 546121,
+        "name": "Творожок Растишка с клубникой и абрикосом 3.5% (45г х 6шт), 270г",
+        "url": "https://online.metro-cc.ru/products/tvorozhok-danone-rastishka-klubnika-abrikos-6h45g",
+        "regular_price": 93.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 570034,
+        "name": "Каша Агуша Засыпайка рис, яблоко и груша молочная 2.7%, 200мл",
+        "url": "https://online.metro-cc.ru/products/detskaya-agusha-zasypaj-ka-molochno-risovaya-s-yablokom-grushej-s-6-mesyacev-27-200ml-bzmzh",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 135122,
+        "name": "Каша Nestle Шагайка мультизлаковая земляника-яблоко-малина молочная, 190г",
+        "url": "https://online.metro-cc.ru/products/shagajka-multizlakovaya-zemlyanika-yabloko-malina-molochnaya-190g",
+        "regular_price": 216,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 131420,
+        "name": "Пюре Тема говядина, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-govyadinoj-s-6-mes-90g",
+        "regular_price": 105,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 134567,
+        "name": "Смесь молочная Nutrilon 3 Premium, 600г",
+        "url": "https://online.metro-cc.ru/products/smes_molochnaya_premium_3_12_600",
+        "regular_price": 869,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 438958,
+        "name": "Пюре фруктовое Агуша Персик и яблоко с 5 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/agusha-ya-sam-yabloko-persik-90g-",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 132287,
+        "name": "Трусики Pampers Active Baby Pants Extra Large 15+кг, 76шт",
+        "url": "https://online.metro-cc.ru/products/trusiki-pampers-active-baby-pants-extra-large-15-kg-76sht",
+        "regular_price": 3119,
+        "promo_price": 2599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 86691,
+        "name": "Смесь молочная Nestogen 2 с 6 месяцев, 600г",
+        "url": "https://online.metro-cc.ru/products/suhaya-molochnaya-nestogen-2-s-6-mesyacev-600-g",
+        "regular_price": 649,
+        "promo_price": null,
+        "brand": "NESTOGEN"
+    },
+    {
+        "article": 49961,
+        "name": "Шампунь Bubchen для детей, 400мл",
+        "url": "https://online.metro-cc.ru/products/shampun-dlya-detej-bubsnen-400ml",
+        "regular_price": 629,
+        "promo_price": null,
+        "brand": "BUBCHEN"
+    },
+    {
+        "article": 117077,
+        "name": "Пюре фруктовое Агуша Яблоко, банан, клубника и киви с 8 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-yabloko-banan-klubnika-kivi-90g",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 200223,
+        "name": "Кашка Heinz рисовая с грушей молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kashka-heinz-risovaya-s-grushey-molochnaya-pauch",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 48788,
+        "name": "Каша Heinz Лакомая кукурузная тыква-чернослив-морковь молочная с 5 месяцев, 170г",
+        "url": "https://online.metro-cc.ru/products/molochnaya-heinz-lakomaya-kukuruza-tykva-morkov-170g",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 620621,
+        "name": "Сок ФрутоНяня яблоко-шиповник, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_620621",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200490,
+        "name": "Хлебцы Агуша мини рисовые ягодное ассорти, 30г",
+        "url": "https://online.metro-cc.ru/products/30g-risovye-mini-hlebtsy-agusha-yagodnoe-assorti",
+        "regular_price": 56.9,
+        "promo_price": 48.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 206371,
+        "name": "Гель Baby Line для купания с ромашкой и пантенолом, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-gel-dlya-kupaniya-baby-line-s-romashkoy-i-pantenolom",
+        "regular_price": 409,
+        "promo_price": 269,
+        "brand": "BABY LINE"
+    },
+    {
+        "article": 200760,
+        "name": "Смесь Малютка 4 молочная, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/1200g-detskoe-molochko-malyutka-4",
+        "regular_price": 1289,
+        "promo_price": null,
+        "brand": "МАЛЮТКА"
+    },
+    {
+        "article": 612289,
+        "name": "Йогурт Растишка клубника 2.6%, 70г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-rastishka-klubnika-26-70-g",
+        "regular_price": 42.99,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 633430,
+        "name": "Средство для купания Ушастый нянь детское, 250мл",
+        "url": "https://online.metro-cc.ru/products/ushastyj-nyan-250ml",
+        "regular_price": 184,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 226947,
+        "name": "Йогурт питьевой ФрутоНяня персик 2.5%, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-yogurt-pitevoy-25-frutonyanya-persik-bzmzh",
+        "regular_price": 45.49,
+        "promo_price": 37.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 62603,
+        "name": "aro Подгузники midi 3 (5-9кг), 72шт",
+        "url": "https://online.metro-cc.ru/products/aro-midi-3-5-9kg-72sht",
+        "regular_price": 1049,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 650769,
+        "name": "Фруктовые кусочки ФрутоНяня из яблока, бананов и клубники, 15г",
+        "url": "https://online.metro-cc.ru/products/kusochki-fruktovye-frutonyanya-yabloko-klubnika-banan-15g",
+        "regular_price": 43.99,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 51431,
+        "name": "Пюре ФрутоНяня Яблоко, груша, банан, персик и йогурт с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-90-g-51431",
+        "regular_price": 48.99,
+        "promo_price": 44.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 494620,
+        "name": "Мыло хозяйственное Ушастый нянь детское против пятен, 180г",
+        "url": "https://online.metro-cc.ru/products/mylo-hozyajstvennoe-ushastyj-nyan-tverdoe-pyatnovyvodnoe-gruppy-180g",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 128991,
+        "name": "Подгузники Lovular Солнечная серия New Born 0-4кг, 62шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-new-born-0-4kg-62sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 128990,
+        "name": "Подгузники Lovular Солнечная серия S 3-8кг, 56шт",
+        "url": "https://online.metro-cc.ru/products/lovular-solnechnaya-seriya-s-3-8kg-56sht",
+        "regular_price": 1999,
+        "promo_price": 1199,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 644993,
+        "name": "Трусики Pampers Premium Care 6 15+кг, 31шт",
+        "url": "https://online.metro-cc.ru/products/pampers-premcare-xl-31-sht",
+        "regular_price": 1999,
+        "promo_price": 1799,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 202101,
+        "name": "Коктейль ФрутоНяня молочный банан 2.1%, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kokteyl-21-frutonyanya-molochn-banan-bzmzh",
+        "regular_price": 42.99,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 608857,
+        "name": "Кашка ФрутоНяня персик молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-molochnaya-persik-200g-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 137225,
+        "name": "Пюре Бабушкино Лукошко тыква, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-babushkino-lukoshko-tykva-100g",
+        "regular_price": 62.9,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 481468,
+        "name": "Пюре ФрутоНяня Яблоко с 4 месяцев, 100г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-v-banke-100-g",
+        "regular_price": 46.99,
+        "promo_price": 41.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 417988,
+        "name": "Гель для подмывания Мое солнышко для младенцев, 400мл",
+        "url": "https://online.metro-cc.ru/products/gel-dlya-podmyvaniya-mladencev-serii-moe-solnyshko-400ml",
+        "regular_price": 193,
+        "promo_price": null,
+        "brand": "МОЕ СОЛНЫШКО"
+    },
+    {
+        "article": 650770,
+        "name": "Кусочки фруктовые ФрутоНяня Яблоко без сахара с 12 месяцев, 53г",
+        "url": "https://online.metro-cc.ru/products/kusochki-fruktovye-frutonyanya-yabloko-53g",
+        "regular_price": 157,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 56497,
+        "name": "Каша Gerber Мультизлак яблоко и чернослив безмолочная с 6 месяцев, 180г",
+        "url": "https://online.metro-cc.ru/products/bezmolochnaya-gerber-ovsyanaya-180-g-56497",
+        "regular_price": 289,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 111506,
+        "name": "Каша Gerber мультизлаковая черника-банан безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/kasha-gerber-molochnaya-multizlakovaya-s-bananom-chernikoj-s-6-mes-180g",
+        "regular_price": 289,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 131429,
+        "name": "Пюре Тема цыпленок, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-cyplenkom-s-6-mes-90g",
+        "regular_price": 83.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 496690,
+        "name": "Салфетки влажные Merries детские сменный блок, 54 листа",
+        "url": "https://online.metro-cc.ru/products/salfetki-merries-54sht",
+        "regular_price": 319,
+        "promo_price": null,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 535683,
+        "name": "Крем-мыло туалетное Ушастый нянь Детское с оливковым маслом и ромашкой, 90г",
+        "url": "https://online.metro-cc.ru/products/krem-mylo-ushastyj-nyan-s-olivkovym-maslom-romashkoj-90g",
+        "regular_price": 49.99,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 663812,
+        "name": "Фруктовые кусочки ФрутоНяня из яблок и клубники Осьминожки, 16г",
+        "url": "https://online.metro-cc.ru/products/batonchik-frutonyanya-fruktovyj-osminozhka-yabloko-klubnika-16-g",
+        "regular_price": 59.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 201237,
+        "name": "Пюре Бабушкино Лукошко кролик, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-pyure-babushkino-lukoshko-krolik",
+        "regular_price": 145,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 469550,
+        "name": "Пюре овощное ФрутоНяня Брокколи с 4 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/art_469550",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 286667,
+        "name": "Мыло туалетное Невская Косметика детское с экстрактом чистотела 100г x 4шт, 400г",
+        "url": "https://online.metro-cc.ru/products/mylo-tualetnoe-s-ekstraktom-chistotela-100g-4sht",
+        "regular_price": 189,
+        "promo_price": null,
+        "brand": "НЕВСКАЯ КОСМЕТИКА"
+    },
+    {
+        "article": 620620,
+        "name": "Сок детский ФрутоНяня Банан, яблоко, вишня и малина осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_620620",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 633463,
+        "name": "Мыло туалетное Невская Косметика детское, 90г",
+        "url": "https://online.metro-cc.ru/products/mylo-90g",
+        "regular_price": 37.99,
+        "promo_price": null,
+        "brand": "НЕВСКАЯ КОСМЕТИКА"
+    },
+    {
+        "article": 200492,
+        "name": "Вода и сок Агуша яблоко-вишня, 300мл",
+        "url": "https://online.metro-cc.ru/products/300ml-voda-i-sok-agusha-yablokovishnya",
+        "regular_price": 58.91,
+        "promo_price": 49.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 200412,
+        "name": "Колечки ФрутоНяня Футопаффсы кукурузно-рисовые яблоко-вишня, 21г",
+        "url": "https://online.metro-cc.ru/products/21g-kukuruzno-risovye-kolechki-frutopaffsy-yablokvishn",
+        "regular_price": 56.9,
+        "promo_price": 50.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 96409,
+        "name": "Йогурт питьевой Растишка клубничный пломбир 2.8%, 190г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-rastishka-klubnichnyj-plombir-s-3-let-28-190g",
+        "regular_price": 74.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 488542,
+        "name": "Сок детский ФрутоНяня Яблоко и персик, 500мл",
+        "url": "https://online.metro-cc.ru/products/art_488542",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 93706,
+        "name": "Каша Агуша Вставайка персик, злаки молочная 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/art_93706",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 480635,
+        "name": "Нектар ФрутоНяня из бананов с мякотью, 500г",
+        "url": "https://online.metro-cc.ru/products/nektar-frutonyanya-iz-bananov-s-myakotyu-500g",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 482109,
+        "name": "Пюре мясное ФрутоНяня Телятина с 6 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/pyure-myasnoe-frutonyanya-iz-telyatiny-80g",
+        "regular_price": 91.91,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 97061,
+        "name": "Биотворог ФрутоНяня манго без сахара с 6 месяцев 4.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/s-mango-frutonyanya-bez-sahara-42-100g-bzmzh",
+        "regular_price": 35.49,
+        "promo_price": 29.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 551930,
+        "name": "Мыло туалетное Рецепты чистоты Детское, 200г",
+        "url": "https://online.metro-cc.ru/products/detskoe-recepty-chistoty-200g",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "РЕЦЕПТЫ ЧИСТОТЫ"
+    },
+    {
+        "article": 505025,
+        "name": "Биотворог ФрутоНяня детский классический с 6 месяцев 5%, 100г",
+        "url": "https://online.metro-cc.ru/products/biotvorog-frutonyanya-klassicheskij-s-6-mesyacev-100g-bzmzh",
+        "regular_price": 35.49,
+        "promo_price": 29.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 217299,
+        "name": "Биотворог Тема банан 4%, 95г",
+        "url": "https://online.metro-cc.ru/products/95g-biotvorog-4-tema-banan-bzmzh",
+        "regular_price": 40.49,
+        "promo_price": 32.9,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 248135,
+        "name": "Подгузники Huggies Classic 5 11-25кг, 58шт",
+        "url": "https://online.metro-cc.ru/products/huggies-classic-5-11-25kg-58-sht",
+        "regular_price": 1519,
+        "promo_price": 999,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 94162,
+        "name": "Каша Fleur Alpine гречневая с яблоком молочная с 4 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/grechnevaya-molochnaya-s-yablokom-fleur-alpine-200g",
+        "regular_price": 569,
+        "promo_price": 497,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 223652,
+        "name": "Мыло детское Synergetic овсяное молочко, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-mylo-synergetic-detskoe-ovsyanoe-molochko",
+        "regular_price": 159,
+        "promo_price": 89.9,
+        "brand": "SYNERGETIC"
+    },
+    {
+        "article": 570035,
+        "name": "Каша Агуша Засыпайка гречка молочная 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/detskaya-agusha-zasypaj-ka-molochno-grechnevaya-s-6-mesyacev-25-200ml-bzmzh",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 223650,
+        "name": "Мыло жидкое Synergetic детское 0+, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-mylo-zhidkoe-synergetic-detskoe-0",
+        "regular_price": 399,
+        "promo_price": 179,
+        "brand": "SYNERGETIC"
+    },
+    {
+        "article": 139395,
+        "name": "Печенье детское Fleur Alpine с виноградным соком, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pechene-detskoe-fleur-alpine-s-vinogradn-sokom",
+        "regular_price": 319,
+        "promo_price": 279,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 466083,
+        "name": "Батончик фруктовый Gerber Doremi Яблоко и банан, 25г",
+        "url": "https://online.metro-cc.ru/products/fruktovyj-batonchik-gerber-doremi-yabloko-banan-25-g",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 128982,
+        "name": "Трусики ночные Lovular M 6-10кг, 21шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-lovular-m-6-10kg-21sht",
+        "regular_price": 1019,
+        "promo_price": 649,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 602220,
+        "name": "Йогурт Растишка клубника, глазированное драже 3%, 115г",
+        "url": "https://online.metro-cc.ru/products/rastishka-s-klubnikoj-shokoladnym-drazhe-115-g",
+        "regular_price": 51.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 481464,
+        "name": "Пюре фруктовое ФрутоНяня Груша с 4 месяцев, 100г",
+        "url": "https://online.metro-cc.ru/products/art_481464",
+        "regular_price": 46.99,
+        "promo_price": 41.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 616921,
+        "name": "Батончик фруктово-злаковый Gerber Черника и черная смородина, 25г",
+        "url": "https://online.metro-cc.ru/products/art_616921",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 546659,
+        "name": "Йогурт питьевой ФрутоНяня с инулином клубника и банан с 8 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/jogurt-pityevoj-frutonyanya-s-inulinom-klubnika-banan-s-8-mesyacev-200-ml-bzmzh",
+        "regular_price": 45.49,
+        "promo_price": 37.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 561409,
+        "name": "Пюре овощное ФрутоНяня Кабачок с 4 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/ovoschnoe-frutonyanya-kabachok-80g",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 131430,
+        "name": "Пюре Тема цыпленок-кабачок-морковь-рис, 90г",
+        "url": "https://online.metro-cc.ru/products/tema-s-cyplenkom-kabachkami-morkovyu-risom-s-6-mes-90g",
+        "regular_price": 72.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 127859,
+        "name": "Йогурт Растишка клубника-M&M's 3%, 116г",
+        "url": "https://online.metro-cc.ru/products/jogurt-rastishka-klubnika-m-ms-3-116g-bzmzh",
+        "regular_price": 51.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 201233,
+        "name": "Пюре Бабушкино Лукошко кукуруза-кабачок-морковь, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-pyure-babushkino-lukoshko-kukuruzakabachokmorkov",
+        "regular_price": 67.9,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 298355,
+        "name": "Каша ФрутоНяня рисовая с тыквой и абрикосом молочная с 5 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/kasha-risovaya-frutonyanya-s-tykvoj-abrikosami-200g",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 605136,
+        "name": "Биотворог ФрутоНяня малина для питания детей раннего возраста с 6 месяцев 4.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/biotvorog-frutonyanya-s-malinoj-detej-rannego-vozrasta-42-100g-bzmzh",
+        "regular_price": 35.99,
+        "promo_price": 30.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 469596,
+        "name": "Каша ФрутоНяня гречневая с яблоком молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/art_469596",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 98352,
+        "name": "Шампунь Milmil Baby Pure деликатный, 750мл",
+        "url": "https://online.metro-cc.ru/products/delikatnyj-milmil-baby-pure-750ml",
+        "regular_price": 309,
+        "promo_price": null,
+        "brand": "MILMIL"
+    },
+    {
+        "article": 201235,
+        "name": "Чай Бабушкино Лукошко детский яблоко-малина-черная смородина, 20г",
+        "url": "https://online.metro-cc.ru/products/20g-chay-detskiy-babushkino-lukoshko-yablmalcher-smorod",
+        "regular_price": 129,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 223647,
+        "name": "Гель для купания Synergetic для младенцев 0+, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-gel-dlya-kupaniya-synergetic-dlya-mladentsev-0",
+        "regular_price": 399,
+        "promo_price": 179,
+        "brand": "SYNERGETIC"
+    },
+    {
+        "article": 131423,
+        "name": "Пюре Тема говядина-сердце, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-govyadinoj-serdcem-s-8-mes-90g",
+        "regular_price": 105,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 200407,
+        "name": "Пюре ФрутоНяня брокколи-кабачок-цветная капуста, 80г",
+        "url": "https://online.metro-cc.ru/products/80g-pyure-frutonyanya-brokkolikabachoktsvetnaya-kapusta",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 203262,
+        "name": "Мыло BioMio Baby с маслом ши, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-mylo-biomio-baby-s-maslom-shi",
+        "regular_price": 135,
+        "promo_price": null,
+        "brand": "BIOMIO"
+    },
+    {
+        "article": 71958,
+        "name": "Йогурт Растишка малина и банан 2.6%, 70г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-rastishka-malina-banan-26-70-g",
+        "regular_price": 42.99,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 61406,
+        "name": "Подгузники Pampers active baby-dry maxi 8-14кг, 70шт",
+        "url": "https://online.metro-cc.ru/products/pampers-active-baby-dry-maxi-4-7-14kg-jumbo-pack-70sht",
+        "regular_price": 1779,
+        "promo_price": 1599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 633429,
+        "name": "Шампунь Невская Косметика детский, 200мл",
+        "url": "https://online.metro-cc.ru/products/shampun-200-ml",
+        "regular_price": 93.9,
+        "promo_price": null,
+        "brand": "НЕВСКАЯ КОСМЕТИКА"
+    },
+    {
+        "article": 141565,
+        "name": "Вафли Take a Bite детские груша-брокколи, 35г",
+        "url": "https://online.metro-cc.ru/products/35g-detskie-vafli-take-a-bitey-grushabrokkoli",
+        "regular_price": 66.99,
+        "promo_price": 55.9,
+        "brand": "TAKE A BITE"
+    },
+    {
+        "article": 215924,
+        "name": "Каша Nestle Шагайка мультизлаковая яблоко-банан-груша молочная, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-kasha-nestle-shagayka-multizlak-yablokobanangrusha-mol",
+        "regular_price": 216,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 95353,
+        "name": "Биотворог ФрутоНяня земляника, ежевика и черника с 6 месяцев 4.2%, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-zemlyanika-ezhevika-chernika-42-90-g-bzmzh",
+        "regular_price": 42.49,
+        "promo_price": 38.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 132607,
+        "name": "Трусики Merries Good Skin размер L 9-14кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/trusiki-merries-good-skin-razmer-l-9-14kg-44sht",
+        "regular_price": 1749,
+        "promo_price": null,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 223661,
+        "name": "Напиток кисломолочный Имунеле Kids земляничное печенье 1.5%, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-napitok-15-imunele-kids-zemlyanich-pechene-bzmzh",
+        "regular_price": 29.49,
+        "promo_price": null,
+        "brand": "ИМУНЕЛЕ"
+    },
+    {
+        "article": 626438,
+        "name": "Пюре ФрутоНяня Яблоко, банан, груша с печеньем с 6 месяцев, 250г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-yabloko-banan-grusha-s-pechenyem-250g",
+        "regular_price": 79.9,
+        "promo_price": 73.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 218706,
+        "name": "Пюре Gerber Спелое манго, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-speloe-mango-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 59352,
+        "name": "Пюре Gerber говядина по-домашнему с морковью с 9 месяцев, 190г",
+        "url": "https://online.metro-cc.ru/products/art_59352",
+        "regular_price": 209,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 622771,
+        "name": "Молочко детское Nutrilon Premium 3, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/nutrilon-premium-3-1200g",
+        "regular_price": 1669,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 215310,
+        "name": "Салфетки влажные Чебурашка детские Mix, 60шт",
+        "url": "https://online.metro-cc.ru/products/vlazhnye-salfetki-cheburashka-detskie-mix-60-sht",
+        "regular_price": 79.99,
+        "promo_price": 59.9,
+        "brand": "ЧЕБУРАШКА"
+    },
+    {
+        "article": 134566,
+        "name": "Смесь молочная Nutrilon 2 Premium, 600г",
+        "url": "https://online.metro-cc.ru/products/molochnaya_smes_nutrilon_2_6_600",
+        "regular_price": 799,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 201246,
+        "name": "Рагу Бабушкино Лукошко кролик-овощи, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-ragu-babushkino-lukoshko-krolikovoschi",
+        "regular_price": 109,
+        "promo_price": 96.9,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 657918,
+        "name": "Каша Heinz овсяная молочная с персиком с 5 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/heinz-molochnaya-pshenichnaya-s-tykvoj-omega-3-200g-657918",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 200225,
+        "name": "Кашка Heinz гречневая молочная, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-kashka-heinz-grechnevaya-molochnaya-pauch",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 33566,
+        "name": "Крем-мыло жидкое Весна Детское с экстрактом ромашки, 280г",
+        "url": "https://online.metro-cc.ru/products/zhidkoe-deskoe-s-romashkoj",
+        "regular_price": 88.9,
+        "promo_price": null,
+        "brand": "ВЕСНА"
+    },
+    {
+        "article": 469527,
+        "name": "Сок детский ФрутоНяня Яблоко и груша с мякотью гипоаллергенный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-iz-yablok-grush-gipoallergennyj-200g",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 202100,
+        "name": "Кашка ФрутоНяня молочная 5 злаков-клубника-банан, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-frutonyanya-molochn-5-zlakklubnban-bzmzh",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 645544,
+        "name": "Подгузники Pampers premium care mini 4-8кг, 66шт",
+        "url": "https://online.metro-cc.ru/products/pampers-premium-care-mini-4-8kg-66sht",
+        "regular_price": 1749,
+        "promo_price": 1599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 494950,
+        "name": "Напиток молочный сухой NAN 4 Optipro с 18 месяцев, 800г",
+        "url": "https://online.metro-cc.ru/products/napitok-molochnyj-suhoj-nan-4-optipro-bl-s-18-mesyacev-800-g",
+        "regular_price": 1619,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 452798,
+        "name": "Смесь молочная NAN Optipro 3 с 12 месяцев, 800г",
+        "url": "https://online.metro-cc.ru/products/suhaya-molochnaya-nan-3-800-g-",
+        "regular_price": 1619,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 136823,
+        "name": "Пюре Heinz Фруктовый салатик и злаки, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-heinz-fruktovyy-salatikzlaki-pauch",
+        "regular_price": 54.99,
+        "promo_price": 45.9,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 95351,
+        "name": "Биотворог ФрутоНяня манго, банан с 6 месяцев 4.2%, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-mango-banan-42-90-g-bzmzh",
+        "regular_price": 42.49,
+        "promo_price": 38.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 212312,
+        "name": "Мини-хлебцы ФрутоНяня рисовые яблоко-персик, 30г",
+        "url": "https://online.metro-cc.ru/products/30g-risovye-mini-hlebtsy-frutonyanya-yablokopersik",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 201241,
+        "name": "Рагу Бабушкино Лукошко говядина-овощи, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-ragu-babushkino-lukoshko-govyadinaovoschi",
+        "regular_price": 84.9,
+        "promo_price": 74.9,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 217301,
+        "name": "Биотворог Тема груша 4%, 95г",
+        "url": "https://online.metro-cc.ru/products/95g-biotvorog-4-tema-grusha-bzmzh",
+        "regular_price": 40.49,
+        "promo_price": 32.9,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 136824,
+        "name": "Пюре Heinz яблоко-клубника-черника, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-heinz-yablokoklubnikachernika-pauch",
+        "regular_price": 54.99,
+        "promo_price": 45.9,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 94163,
+        "name": "Каша Fleur Alpine рисовая молочная с 4 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/risovaya-molochnaya-fleur-alpine-200g",
+        "regular_price": 449,
+        "promo_price": 379,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 662340,
+        "name": "Молочко детское Similac Classic 4 с 18 месяцев, 600 г",
+        "url": "https://online.metro-cc.ru/products/art_662340",
+        "regular_price": 779,
+        "promo_price": null,
+        "brand": "SIMILAC"
+    },
+    {
+        "article": 618744,
+        "name": "Подгузники-трусики Merries S 4-8кг, 62шт",
+        "url": "https://online.metro-cc.ru/products/merries-razmer-s-4-8-kg-v-upakovke-62-sht",
+        "regular_price": 2279,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 106992,
+        "name": "Палочки кукурузные ФрутоНяня Яблоко и клубника, 20г",
+        "url": "https://online.metro-cc.ru/products/palochki-frutonyanya-kukuruznye-yabloko-klubnika-20g",
+        "regular_price": 55.9,
+        "promo_price": 47.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 107477,
+        "name": "Шампунь Schauma Kids Нежный и бережный уход для девочек, 350мл",
+        "url": "https://online.metro-cc.ru/products/shampun-balzam-dlya-dusha-schauma-kids-dlya-devochek-350ml",
+        "regular_price": 319,
+        "promo_price": null,
+        "brand": "SCHAUMA"
+    },
+    {
+        "article": 121661,
+        "name": "Пюре Heinz фруктовый салатик, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-heinz-fruktovyj-salatik-pauch",
+        "regular_price": 54.99,
+        "promo_price": 45.9,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 466073,
+        "name": "Батончик злаковый Gerber Яблоко и виноград, 25г",
+        "url": "https://online.metro-cc.ru/products/zlakovyj-batonchik-gerber-yabloko-vinograd-25g",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 633095,
+        "name": "Шампунь Milmil Абрикос детский, 500мл",
+        "url": "https://online.metro-cc.ru/products/shampun-milmil-abrikos-500ml",
+        "regular_price": 329,
+        "promo_price": null,
+        "brand": "MILMIL"
+    },
+    {
+        "article": 56498,
+        "name": "Каша Gerber гречневая безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/bezmolochnaya-gerber-180-g",
+        "regular_price": 289,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 203265,
+        "name": "Шампунь Мое солнышко для волос сочный мандарин, 400мл",
+        "url": "https://online.metro-cc.ru/products/400ml-shampun-dlya-volos-moyo-solnyshko-sochnyy-mandarin",
+        "regular_price": 155,
+        "promo_price": 109,
+        "brand": "МОЕ СОЛНЫШКО"
+    },
+    {
+        "article": 132608,
+        "name": "Трусики Merries Good Skin размер M 7-12кг, 50шт",
+        "url": "https://online.metro-cc.ru/products/trusiki-merries-good-skin-razmer-m-7-12kg-50sht",
+        "regular_price": 1529,
+        "promo_price": 1399,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 110583,
+        "name": "Трусики Huggies Elite Soft 4 ночные 9-14кг, 19шт",
+        "url": "https://online.metro-cc.ru/products/nochnye-huggies-elite-soft-4-9-14kg-19-sht",
+        "regular_price": 1219,
+        "promo_price": 699,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 205713,
+        "name": "Гель для душа и шампунь Natura Siberica детский От макушки до пяточек, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-shampun-gel-natura-siberica-detsk-ot-makushki-do-pyat",
+        "regular_price": 319,
+        "promo_price": null,
+        "brand": "NATURA SIBERICA"
+    },
+    {
+        "article": 469549,
+        "name": "Пюре ФрутоНяня Цветная капуста, кукуруза и морковь с 5 месяцев, 80г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-cvetnaya-kapusta-kukuruza-morkov-80g",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 135495,
+        "name": "Пюре ФрутоНяня Яблоко-персик, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-frutonyanya-yabloko-persik-100g",
+        "regular_price": 46.99,
+        "promo_price": 41.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200759,
+        "name": "Смесь Малютка 3 молочная, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/1200g-detskoe-molochko-malyutka-3",
+        "regular_price": 1289,
+        "promo_price": null,
+        "brand": "МАЛЮТКА"
+    },
+    {
+        "article": 438903,
+        "name": "Пюре фруктовое Агуша Банан с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-ya-sam-banan-90g",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 200486,
+        "name": "Пюре ФрутоНяня банан-печенье-йогурт, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-pyure-frutonyanya-bananpecheneyogurt-steklo",
+        "regular_price": 79.9,
+        "promo_price": 73.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200966,
+        "name": "Каша ФрутоНяня яблоко-земляника пшеничная молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-frutonyanya-pshenichnaya-yablzeml-molochnaya-bzmzh",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 575167,
+        "name": "Биолакт ФрутоНяня с 8 месяцев 3.2%, 200г",
+        "url": "https://online.metro-cc.ru/products/biolakt-frutonyanya-32-s-8-mesyacev-200g",
+        "regular_price": 39.49,
+        "promo_price": 32.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 220100,
+        "name": "Трусики-подгузники Tanoshi для детей XXL 17-25кг, 26шт",
+        "url": "https://online.metro-cc.ru/products/26sht-trusiki-podguzniki-tanoshi-dlya-detey-xxl17-25kg",
+        "regular_price": 1829,
+        "promo_price": 1199,
+        "brand": "TANOSHI"
+    },
+    {
+        "article": 612281,
+        "name": "Питьевой йогурт Растишка Яблоко-груша 2.6%, 70г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-rastishka-yabloko-grusha-26-70-g",
+        "regular_price": 42.99,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 481463,
+        "name": "Пюре ФрутоНяня Фруктовый салатик яблоко, груша и персик с 5 месяцев, 100г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-pyure-fruktovyj-salatik-yabloko-grusha-persik-100g",
+        "regular_price": 46.99,
+        "promo_price": 41.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 202348,
+        "name": "Каша Бибикаша рисовая, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-bibikasha-risovaya",
+        "regular_price": 659,
+        "promo_price": null,
+        "brand": "БИБИКАША"
+    },
+    {
+        "article": 212311,
+        "name": "Мини-хлебцы ФрутоНяня рисовые яблоко-клубника-банан, 30г",
+        "url": "https://online.metro-cc.ru/products/30g-risovye-mini-hlebtsy-frutonyanya-yablokoklubnikabanan",
+        "regular_price": 53.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 67756,
+        "name": "Набор мелков для рисования Нордпласт Dream Makers в ведерке, 21шт",
+        "url": "https://online.metro-cc.ru/products/melkov-dlya-risovaniya-v-vederke-dream-makers-21-sht",
+        "regular_price": 399,
+        "promo_price": null,
+        "brand": "НОРДПЛАСТ"
+    },
+    {
+        "article": 200488,
+        "name": "Пюре ФрутоНяня яблоко-малина-сливки, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-pyure-frutonyanya-yablokomalinaslivki-steklo",
+        "regular_price": 79.9,
+        "promo_price": 73.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 488420,
+        "name": "Каша Nestle овсяная безмолочная, 200г",
+        "url": "https://online.metro-cc.ru/products/art_488420",
+        "regular_price": 184,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 125848,
+        "name": "Творог Агуша детский черника и малина 4%, 80г",
+        "url": "https://online.metro-cc.ru/products/80g-tvorog-4-agusha-detskij-chern-mal-bzmzh",
+        "regular_price": 51.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 206368,
+        "name": "Шампунь Baby Line детский с ромашкой и пантенолом, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-detskiy-shampun-baby-line-s-romashkoy-i-pantenolom",
+        "regular_price": 449,
+        "promo_price": 269,
+        "brand": "BABY LINE"
+    },
+    {
+        "article": 214927,
+        "name": "Кашка Агуша молочно-рисовая черника-малина-яблоко 2.7%, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-molochno-zlakovaya-27-agusha-chernmalinyabl-bzmzh",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 83025,
+        "name": "Пенка-шампунь Мое солнышко С головы до пят, 400мл",
+        "url": "https://online.metro-cc.ru/products/penka-shampun-s-golovy-do-pyat-serii-moe-solnyshko-400ml",
+        "regular_price": 195,
+        "promo_price": 149,
+        "brand": "МОЕ СОЛНЫШКО"
+    },
+    {
+        "article": 200413,
+        "name": "Звездочки ФрутоНяня Фрутопаффсы звездочки яблоко, 21г",
+        "url": "https://online.metro-cc.ru/products/21g-multizlakovye-zvezdochki-frutopaffsy-yabloko",
+        "regular_price": 56.9,
+        "promo_price": 50.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 201272,
+        "name": "Сок Сады Придонья яблоко-шиповник, 200мл",
+        "url": "https://online.metro-cc.ru/products/02l-sok-sady-pridonya-yablokoshipovnik",
+        "regular_price": 28.49,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 546525,
+        "name": "Творожок Растишка с клубникой 3.5% 100г",
+        "url": "https://online.metro-cc.ru/products/art_546525",
+        "regular_price": 41.99,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 200721,
+        "name": "Смесь Малютка 1 молочная, 1.2кг",
+        "url": "https://online.metro-cc.ru/products/1200g-molochnaya-smes-malyutka-1",
+        "regular_price": 1219,
+        "promo_price": null,
+        "brand": "МАЛЮТКА"
+    },
+    {
+        "article": 205716,
+        "name": "Мыло жидкое Natura Siberica детское Ладушки, 500мл",
+        "url": "https://online.metro-cc.ru/products/500ml-zhidkoe-mylo-natura-siberica-detskoe-ladushki",
+        "regular_price": 469,
+        "promo_price": null,
+        "brand": "NATURA SIBERICA"
+    },
+    {
+        "article": 546660,
+        "name": "Йогурт питьевой ФрутоНяня с инулином яблоко и банан с 8 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/jogurt-pityevoj-frutonyanya-yabloko-banan-s-inulinom-s-8-mesyacev-200ml",
+        "regular_price": 45.49,
+        "promo_price": 37.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 453762,
+        "name": "Пюре фруктовое Агуша Яблоко, банан и печенье с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/agusha-ya-sam-pechenye-yabloko-banan-90g",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 137224,
+        "name": "Пюре Бабушкино Лукошко чернослив, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-babushkino-lukoshko-chernosliv-100g-137224",
+        "regular_price": 75.9,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 96408,
+        "name": "Йогурт питьевой Растишка банан 2.8%, 190г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-rastishka-s-bananom-s-3-let-28-190g",
+        "regular_price": 74.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 117079,
+        "name": "Батончик фруктовый Агуша Яблоко+банан, 15г",
+        "url": "https://online.metro-cc.ru/products/batonchik-fruktovyj-agusha-yabloko-banan-15g",
+        "regular_price": 45.99,
+        "promo_price": 40.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 128534,
+        "name": "Салфетки влажные Aura Ultra Comfort детские с алоэ и витамином E, 100шт",
+        "url": "https://online.metro-cc.ru/products/salfetki-aura-ultra-comfort-detskie-s-aloe-vitaminom-e-100sht",
+        "regular_price": 128,
+        "promo_price": null,
+        "brand": "AURA"
+    },
+    {
+        "article": 609320,
+        "name": "Биолакт ФрутоНяня ягодный с 8 месяцев, 200мл",
+        "url": "https://online.metro-cc.ru/products/biolakt-frutonyanya-yagodnyj-8-mesyacev-200-ml-bzmzh",
+        "regular_price": 38.49,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 469525,
+        "name": "Нектар ФрутоНяня из яблок и слив с мякотью с 5 месяцев, 200мл",
+        "url": "https://online.metro-cc.ru/products/nektar-frutonyanya-iz-yablok-sliv-s-myakotyu-s-5-mesyacev-02-l",
+        "regular_price": 34.99,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 228744,
+        "name": "Трусики-подгузники Lovular Giraffe размер XL 12-18кг, 46шт",
+        "url": "https://online.metro-cc.ru/products/46sht-trusiki-podguzniki-lovular-giraffe-xl-12-18kg",
+        "regular_price": 1399,
+        "promo_price": 1179,
+        "brand": "LOVULAR"
+    },
+    {
+        "article": 137221,
+        "name": "Чай Бабушкино Лукошко Ромашка, 20г",
+        "url": "https://online.metro-cc.ru/products/chay-babushkino-lukoshko-romashka-20g",
+        "regular_price": 129,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 116834,
+        "name": "Коктейль молочный Растишка с клубникой 2%, 210г",
+        "url": "https://online.metro-cc.ru/products/210g-molochnyj-koktejl-2-rastishka-klubnika-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 133805,
+        "name": "Каша мультизлаковая Nestle груша-персик молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-nestle-multizlak-grushapersik-mol",
+        "regular_price": 196,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 131421,
+        "name": "Пюре Тема говядина-кабачок-рис, 90г",
+        "url": "https://online.metro-cc.ru/products/tema-s-govyadinoj-kabachkami-risom-s-6-mes-90g",
+        "regular_price": 72.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 94156,
+        "name": "Сушки Fleur Alpine Taralli Итальянские на оливковом масле, 125г",
+        "url": "https://online.metro-cc.ru/products/italyanskie-taralli-fleur-alpine-na-olivkovom-masle-pervogo-holodnogo-otzhima-dlya-vsej-semyi-125-g",
+        "regular_price": 199,
+        "promo_price": 189,
+        "brand": "FLEUR ALPINE"
+    },
+    {
+        "article": 221862,
+        "name": "Шампунь-кондиционер Milmil детский 2в1 ваниль, 500мл",
+        "url": "https://online.metro-cc.ru/products/500ml-shampunkonditsioner-milmil-detskiy-2v1-vanil",
+        "regular_price": 299,
+        "promo_price": null,
+        "brand": "MILMIL"
+    },
+    {
+        "article": 438954,
+        "name": "Пюре фруктовое Агуша Груша с 4 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-ya-sam-grusha-90g",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 643046,
+        "name": "Каша Агуша Засыпайка овсянка, малина молочная 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/agusha-molochnaya-ovsyanaya-s-malinoj-200ml-bzmzh",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 218704,
+        "name": "Пюре Gerber Спелое яблоко, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-speloe-yabloko-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 63731,
+        "name": "Йогурт питьевой Мама Лама клубника и банан 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/pityevoj-mama-lama-klubnika-banan-25-200ml-bzmzh",
+        "regular_price": 57.9,
+        "promo_price": null,
+        "brand": "МАМА ЛАМА"
+    },
+    {
+        "article": 202344,
+        "name": "Каша Бибикаша гречневая, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-bibikasha-grechnevaya",
+        "regular_price": 639,
+        "promo_price": 539,
+        "brand": "БИБИКАША"
+    },
+    {
+        "article": 483456,
+        "name": "Смесь молочная NAN Optipro Nestle Гипоаллергенный 3, 400г",
+        "url": "https://online.metro-cc.ru/products/nan-gipoallergennyj-3-optipro-ha-gipoallergennoe-s-dlya-detej-s-12-mesyacev-400-g",
+        "regular_price": 1059,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 518433,
+        "name": "Пюре фруктовое Агуша Мультифрукт с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/agusha-multifrukt-90-g-",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 488375,
+        "name": "Каша Nestle гречневая безмолочная гипоаллергенная с 4 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/nestle-bezmolochnaya-grechnevaya-gipoallergennaya-s-4-h-mesyacev-200g",
+        "regular_price": 169,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 201834,
+        "name": "Кашка ФрутоНяня безмолочная овсяная ягоды, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-bezmolochnaya-frutonyanya-ovsyagody",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 226749,
+        "name": "Каша Агуша молочно-пшеничная Засыпайка 1.8%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-kashka-18-agusha-molochno-pshenichnaya-zasypayka-bzmzh",
+        "regular_price": 44.99,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 218701,
+        "name": "Пюре Gerber яблоко-манго, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-yablokomango-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 624485,
+        "name": "Каша ФрутоНяня мультизлаковая с яблоком бананом и земляникой молочная быстрорастворимая с 6 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-multizlakovaya-s-yablokom-bananom-zemlyanikoj-200g",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 130085,
+        "name": "Кашка Heinz многозерновая 5 злаков безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/heinz-mnogozernovaya-5-zlakov-bezmolochnaya-180g",
+        "regular_price": 169,
+        "promo_price": null,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 523131,
+        "name": "Батончик фруктово-злаковый Gerber Банан и вишня, 25г",
+        "url": "https://online.metro-cc.ru/products/batonchik-gerber-doremi-banan-vishnya-25g",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 200687,
+        "name": "Каша ФрутоНяня мультизлаковая банан-хлопок-клубника молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-frutonyanya-multizlak-bananhlopklubn-mol",
+        "regular_price": 194,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 638892,
+        "name": "Йогурт Растишка малина и банан 6%, 110г",
+        "url": "https://online.metro-cc.ru/products/rastishka-malina-banan-6-110-g",
+        "regular_price": 33.99,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 469542,
+        "name": "Пюре ФрутоНяня Яблоко, персик и сливки с 6 месяцев, 250г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-iz-yablok-persikov-so-slivkami-s-6-mesyacev-250-g",
+        "regular_price": 79.9,
+        "promo_price": 73.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 589977,
+        "name": "aro Подгузники-трусики JUNIOR размер 5 12-18 кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/art_589977",
+        "regular_price": 959,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 116995,
+        "name": "Коктейль молочный Растишка ванильное мороженное 2%, 210г",
+        "url": "https://online.metro-cc.ru/products/koktejl-molochnyj-vanilnoe-morozhenoe-rastishka-2-210g-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 141577,
+        "name": "Печенье Take a Bite детское сливочная малина, 125г",
+        "url": "https://online.metro-cc.ru/products/125g-detskoe-pechene-take-a-bitey-sliv-malina-bglyut",
+        "regular_price": 131,
+        "promo_price": 98.9,
+        "brand": "TAKE A BITE"
+    },
+    {
+        "article": 125849,
+        "name": "Творог Агуша детский яблоко, персик и банан 4%, 80г",
+        "url": "https://online.metro-cc.ru/products/80g-tvorog-4-agusha-detskij-yabl-pers-ban-bzmzh",
+        "regular_price": 51.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 47973,
+        "name": "Малоежка PediaSure клубника, 400г",
+        "url": "https://online.metro-cc.ru/products/maloezhka-pediasure-klubnika-400g",
+        "regular_price": 929.01,
+        "promo_price": null,
+        "brand": "PEDIASURE"
+    },
+    {
+        "article": 125846,
+        "name": "Творог Агуша детский клубника 4%, 80г",
+        "url": "https://online.metro-cc.ru/products/80g-tvorog-4-agusha-detskij-klubnika-bzmzh",
+        "regular_price": 51.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 94169,
+        "name": "Пенка-мусс Моя Прелесть Приключения пиратов для игр и купания, 200мл",
+        "url": "https://online.metro-cc.ru/products/penka-moya-prelest-priklyucheniya-pirata-200ml",
+        "regular_price": 196,
+        "promo_price": null,
+        "brand": "МОЯ ПРЕЛЕСТЬ"
+    },
+    {
+        "article": 481455,
+        "name": "Сок детский ФрутоНяня Яблоко и груша с мякотью гипоаллергенный, 500мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-iz-yablok-grush-500g",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 201836,
+        "name": "Кашка ФрутоНяня безмолочная 5 злаков-яблоко-банан-клубника, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-bezmolochnaya-frutonyanya-5-zlakyablbanklb",
+        "regular_price": 49.49,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 203263,
+        "name": "Пенка-гель Мое солнышко медовая дыня, 400мл",
+        "url": "https://online.metro-cc.ru/products/400ml-penka-gel-moyo-solnyshko-medovaya-dynya",
+        "regular_price": 163,
+        "promo_price": 119,
+        "brand": "МОЕ СОЛНЫШКО"
+    },
+    {
+        "article": 134568,
+        "name": "Смесь молочная Nutrilon 4 Premium, 600г",
+        "url": "https://online.metro-cc.ru/products/smes_molochnaya_premium_4_18_600g",
+        "regular_price": 869,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 131419,
+        "name": "Пюре Тема Говядина-гречка, 90г",
+        "url": "https://online.metro-cc.ru/products/tema-s-govyadinoj-grechkoj-s-8-mes-90g",
+        "regular_price": 72.9,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 463439,
+        "name": "Шампунь Bubchen Абрикос для детей, 230мл",
+        "url": "https://online.metro-cc.ru/products/art_463439",
+        "regular_price": 469,
+        "promo_price": null,
+        "brand": "BUBCHEN"
+    },
+    {
+        "article": 201239,
+        "name": "Пюре Бабушкино Лукошко цыпленок, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-pyure-babushkino-lukoshko-tsyplenok",
+        "regular_price": 107,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 116833,
+        "name": "Коктейль молочный Растишка фруктовый леденец 2%, 210г",
+        "url": "https://online.metro-cc.ru/products/210g-mol-koktejl-2-rastishka-frukt-led-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 471729,
+        "name": "Каша ФрутоНяня овсяная молочная с персиками с 5 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/kasha-molochnaya-frutonyanya-ovsyanaya-s-persikami-200-g",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200969,
+        "name": "Каша ФрутоНяня яблоко-смородина-вишня мультизлаковая молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-frutonyanya-multizlak-yablsmorvish-mol-bzmzh",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 131426,
+        "name": "Пюре Тема кролик, 90г",
+        "url": "https://online.metro-cc.ru/products/myasnoe-tema-s-krolikom-s-6-mes-90g",
+        "regular_price": 138,
+        "promo_price": null,
+        "brand": "ТЕМА"
+    },
+    {
+        "article": 201242,
+        "name": "Рагу Бабушкино Лукошко цыпленок-овощи, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-ragu-babushkino-lukoshko-tsyplenokovoschi",
+        "regular_price": 84.9,
+        "promo_price": 74.9,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 200143,
+        "name": "Каша Nutrilon рисовая безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-kasha-nutrilon-risovaya-bezmolochnaya",
+        "regular_price": 265,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 134565,
+        "name": "Смесь молочная Nutrilon 1 Premium, 600г",
+        "url": "https://online.metro-cc.ru/products/smes_molochnaya_premium_1_0_600g",
+        "regular_price": 799,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 116832,
+        "name": "Коктейль молочный Растишка бабл-гам 2%, 210г",
+        "url": "https://online.metro-cc.ru/products/210g-mol-koktejl-2-rastishka-babl-gam-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 226757,
+        "name": "Каша Агуша молочно-злаковая Засыпайка 1.8%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-kashka-18-agusha-molochno-zlakovaya-zasypayka-bzmzh",
+        "regular_price": 44.99,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 133801,
+        "name": "Каша мультизлаковая Nestle молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-nestle-multizlakovaya-molochnaya",
+        "regular_price": 196,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 133799,
+        "name": "Каша овсяная Nestle банан-груша молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-nestle-ovsyanaya-banangrusha-molochnaya",
+        "regular_price": 196,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 200221,
+        "name": "Кашка Heinz многозерновая Липа-ромашка безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-kashka-heinz-mnogozernovaya-liparomash-bezmol-kor",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 668269,
+        "name": "Творог ФрутоНяня лесные ягоды с 6 месяцев 4.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-lesnye-yagody-bzmzh-100-g",
+        "regular_price": 35.99,
+        "promo_price": 30.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 137356,
+        "name": "Пюре Бабушкино Лукошко цветная капуста, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-babushkino-lukoshko-tsvetnaya-kapusta-100g",
+        "regular_price": 67.9,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 202849,
+        "name": "Гель для душа и шампунь Гадкий я детский, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-shampun-gel-gadkiy-ya-detskiy",
+        "regular_price": 189,
+        "promo_price": null,
+        "brand": "ГАДКИЙ Я"
+    },
+    {
+        "article": 636757,
+        "name": "Мыло туалетное Nesti Dante Carolina e Edoardo детское, 250г",
+        "url": "https://online.metro-cc.ru/products/mylo-nesti-dante-carolina-e-edoardo-250-g",
+        "regular_price": 449,
+        "promo_price": null,
+        "brand": "NESTI DANTE"
+    },
+    {
+        "article": 209807,
+        "name": "Салфетки влажные Pamperino Kids детские ромашка-витамин Е, 15шт",
+        "url": "https://online.metro-cc.ru/products/15sht-salfetki-pamperino-kids-vlazhnye-detskie-romashka-vit-e",
+        "regular_price": 30.49,
+        "promo_price": 20.9,
+        "brand": "PAMPERINO"
+    },
+    {
+        "article": 530769,
+        "name": "Сок детский Агуша Груша осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-agusha-grusha-osvetlennyj-200g",
+        "regular_price": 36.91,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 218702,
+        "name": "Пюре Gerber яблоко-груша-малина-черника, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-yablokogrushamalinachernika-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 218700,
+        "name": "Пюре Gerber яблоко-банан, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-yablokobanan-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 86690,
+        "name": "Смесь молочная Nestogen 1 сухая, 600г",
+        "url": "https://online.metro-cc.ru/products/molochnaya-suhaya-nestogen-1-3-g-600-g",
+        "regular_price": 649,
+        "promo_price": null,
+        "brand": "NESTOGEN"
+    },
+    {
+        "article": 202842,
+        "name": "Крем-гель Librederm для душа с церамидами и пребиотиком, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-krem-gel-librederm-ddusha-s-tseramidami-i-prebiotikom",
+        "regular_price": 699,
+        "promo_price": null,
+        "brand": "LIBREDERM"
+    },
+    {
+        "article": 211918,
+        "name": "Полотенца влажные Авангард детские ромашка-алоэ-витамин Е, 60шт",
+        "url": "https://online.metro-cc.ru/products/polotentsa-vlazhnye-avangard-detskie-romashka-aloe-vitamin-e-60sht",
+        "regular_price": 145,
+        "promo_price": null,
+        "brand": "Без бренда"
+    },
+    {
+        "article": 49964,
+        "name": "Средство для купания Bubchen для младенцев, 400мл",
+        "url": "https://online.metro-cc.ru/products/mladencev-bubsnen-400ml",
+        "regular_price": 669,
+        "promo_price": null,
+        "brand": "BUBCHEN"
+    },
+    {
+        "article": 561425,
+        "name": "Малоежка PediaSure шоколад, 200мл",
+        "url": "https://online.metro-cc.ru/products/maloezhka-pediasure-shokolad-200ml",
+        "regular_price": 152,
+        "promo_price": null,
+        "brand": "PEDIASURE"
+    },
+    {
+        "article": 580490,
+        "name": "Напиток PediaSure Малоежка со вкусом банана, 200мл",
+        "url": "https://online.metro-cc.ru/products/maloezhka-pediasure-banan-200ml",
+        "regular_price": 152,
+        "promo_price": null,
+        "brand": "PEDIASURE"
+    },
+    {
+        "article": 603948,
+        "name": "Биолакт ФрутоНяня яблоко с 8 месяцев, 200мл",
+        "url": "https://online.metro-cc.ru/products/biolakt-frutonyanya-yabloko-200-ml",
+        "regular_price": 38.49,
+        "promo_price": 31.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 107476,
+        "name": "Шампунь Schauma Kids Нежный и бережный уход для мальчиков, 350мл",
+        "url": "https://online.metro-cc.ru/products/shampun-gel-dlya-dusha-schauma-kids-dlya-malchikov-350ml",
+        "regular_price": 319,
+        "promo_price": null,
+        "brand": "SCHAUMA"
+    },
+    {
+        "article": 223651,
+        "name": "Молочко детское Synergetic увлажняющее 0+, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-molochko-synergetic-detskoe-uvlazhnyayuschee-0",
+        "regular_price": 499,
+        "promo_price": 209,
+        "brand": "SYNERGETIC"
+    },
+    {
+        "article": 94700,
+        "name": "Каша Gerber овсяная тыква и абрикос безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/kasha-ovsyanaya-gerber-tykva-abrikos-bezmolochnaya-180-g",
+        "regular_price": 289,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 133800,
+        "name": "Каша овсяная Nestle с яблоком молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/ovsyanaya-nestle-s-yablokom-molochnaya-200g",
+        "regular_price": 196,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 133806,
+        "name": "Каша мультизлаковая Nestle яблоко-черника-малина молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/multizlakovaya-nestle-yabloko-chernika-malina-molochnaya-200g",
+        "regular_price": 196,
+        "promo_price": null,
+        "brand": "NESTLE"
+    },
+    {
+        "article": 128125,
+        "name": "Сок Агуша Яблоко-банан-клубника-арония-киви, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-agusha-yabloko-banan-klubnika-aroniya-kivi-200ml",
+        "regular_price": 36.91,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 201258,
+        "name": "Пюре Сады Придонья яблоко-груша-слива, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pyure-sady-pridonya-yablokogrushasliva-steklo",
+        "regular_price": 39,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 201234,
+        "name": "Пюре Бабушкино Лукошко груша, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-pyure-babushkino-lukoshko-grusha-steklo",
+        "regular_price": 60.9,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 200142,
+        "name": "Каша Nutrilon кукурузная безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-kasha-nutrilon-kukuruznaya-bezmolochnaya",
+        "regular_price": 265,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 119659,
+        "name": "Йогурт питьевой Растишка фруктовый микс 2.8%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-pit-jog-28-rastishka-multifrukt-bzmzh",
+        "regular_price": 74.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 564583,
+        "name": "Присыпка Bubchen детская, 100г",
+        "url": "https://online.metro-cc.ru/products/prisypka-bubchen-s-rozhdeniya-100g",
+        "regular_price": 479,
+        "promo_price": null,
+        "brand": "BUBCHEN"
+    },
+    {
+        "article": 119804,
+        "name": "Коктейль молочный Растишка шоколадный банан 2%, 210г",
+        "url": "https://online.metro-cc.ru/products/210g-kokt-2-rastishka-shoko-banan-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 481633,
+        "name": "Сок детский ФрутоНяня Мультифрукт, 500мл",
+        "url": "https://online.metro-cc.ru/products/sok-frutonyanya-multifrukt-500g",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 130086,
+        "name": "Кашка Heinz низкоаллергенная гречневая безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/heinz-nizkoallergennaya-grechnevaya-bezmolochnaya-180g",
+        "regular_price": 169,
+        "promo_price": null,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 330769,
+        "name": "Йогурт Растишка с клубникой 3% 110г",
+        "url": "https://online.metro-cc.ru/products/molochnyj-koktejl-rastishka-klubnika-zemlyanika-35-110g",
+        "regular_price": 33.99,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 130087,
+        "name": "Кашка Heinz низкоаллергенная кукурузная безмолочная, 180г",
+        "url": "https://online.metro-cc.ru/products/heinz-nizkoallergennaya-kukuruznaya-bezmolochnaya-180g",
+        "regular_price": 169,
+        "promo_price": null,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 217810,
+        "name": "Пюре Агуша яблоко-творог-печенье, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-agusha-yablokotvorogpechene-doy-pak",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 63734,
+        "name": "Йогурт питьевой Мама Лама малина 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/pityevoj-mama-lama-malina-25-200ml-bzmzh",
+        "regular_price": 57.9,
+        "promo_price": null,
+        "brand": "МАМА ЛАМА"
+    },
+    {
+        "article": 202347,
+        "name": "Каша Бибикаша овсяная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-bibikasha-ovsyanaya",
+        "regular_price": 539,
+        "promo_price": 459,
+        "brand": "БИБИКАША"
+    },
+    {
+        "article": 218705,
+        "name": "Пюре Gerber Спелая груша, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-spelaya-grusha-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 202869,
+        "name": "Присыпка AQA Baby детская 0+, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-detskaya-prisypka-aqa-baby-0",
+        "regular_price": 207,
+        "promo_price": null,
+        "brand": "AQA BABY"
+    },
+    {
+        "article": 137570,
+        "name": "Гель AQA Baby для подмывания девочек, 400мл",
+        "url": "https://online.metro-cc.ru/products/gel-aqua-baby-dlya-podmyvaniya-devochek-400ml",
+        "regular_price": 349,
+        "promo_price": null,
+        "brand": "AQA BABY"
+    },
+    {
+        "article": 200144,
+        "name": "Каша Nutrilon кукурузная молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-nutrilon-kukuruznaya-molochnaya",
+        "regular_price": 319,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 563551,
+        "name": "Мыло туалетное Ушастый нянь детское отбеливающее, 180г",
+        "url": "https://online.metro-cc.ru/products/mylo-hozyajstvennoe-ushastyj-nyan-tverdoe-otbelivayuschee-gruppy-180g",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 202847,
+        "name": "Шампунь Гадкий я детский, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-shampun-2v1-gadkiy-ya-detskiy",
+        "regular_price": 189,
+        "promo_price": null,
+        "brand": "ГАДКИЙ Я"
+    },
+    {
+        "article": 137223,
+        "name": "Пюре Бабушкино Лукошко яблоко, 100г",
+        "url": "https://online.metro-cc.ru/products/pyure-babushkino-lukoshko-yabloko-100g-137223",
+        "regular_price": 60.9,
+        "promo_price": null,
+        "brand": "БАБУШКИНО ЛУКОШКО"
+    },
+    {
+        "article": 219077,
+        "name": "Мармелад Take a Bite Чувисы черная смородина, 20г",
+        "url": "https://online.metro-cc.ru/products/20g-marmelad-take-a-bitey-chuvisy-chernaya-smorodina",
+        "regular_price": 89.9,
+        "promo_price": null,
+        "brand": "TAKE A BITE"
+    },
+    {
+        "article": 206378,
+        "name": "Соль Baby Line для ванн детская морская, 500г",
+        "url": "https://online.metro-cc.ru/products/500g-sol-dlya-vann-baby-line-detskaya-morskaya",
+        "regular_price": 93.9,
+        "promo_price": 64.9,
+        "brand": "BABY LINE"
+    },
+    {
+        "article": 201273,
+        "name": "Сок Сады Придонья яблоко-абрикос, 200мл",
+        "url": "https://online.metro-cc.ru/products/02l-sok-sady-pridonya-yablokoabrikos",
+        "regular_price": 26.9,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 218707,
+        "name": "Пюре Gerber фруктово-ягодный микс, 90г",
+        "url": "https://online.metro-cc.ru/products/90g-pyure-gerber-fruktovo-yagodnyy-miks-doy-pak",
+        "regular_price": 112,
+        "promo_price": null,
+        "brand": "GERBER"
+    },
+    {
+        "article": 205707,
+        "name": "Крем Natura Siberica детский наливное яблочко, 75мл",
+        "url": "https://online.metro-cc.ru/products/75ml-krem-natura-siberica-detskiy-nalivnoe-yablochko",
+        "regular_price": 349,
+        "promo_price": null,
+        "brand": "NATURA SIBERICA"
+    },
+    {
+        "article": 137569,
+        "name": "Средство для купания малыша AQA Baby и шампунь 2в1, 500мл",
+        "url": "https://online.metro-cc.ru/products/sredstvo-dlya-kupaniya-malysha-aqua-baby-i-shampun-2v1-500ml",
+        "regular_price": 359,
+        "promo_price": null,
+        "brand": "AQA BABY"
+    },
+    {
+        "article": 200172,
+        "name": "Кисель Леовит Leo Kids общеукрепляющий для детей и родителей (12г х 5шт), 60г",
+        "url": "https://online.metro-cc.ru/products/5h12g-kisel-leo-kids-obscheukreplyayuschiy-ddetey-i-rod",
+        "regular_price": 202,
+        "promo_price": 169,
+        "brand": "ЛЕОВИТ"
+    },
+    {
+        "article": 298354,
+        "name": "Каша ФрутоНяня овсяная с бананом и яблоком молочная с 6 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/art_298354",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 624483,
+        "name": "Каша ФрутоНяня гречневая с черносливом молочная с 4 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/art_624483",
+        "regular_price": 165,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 469601,
+        "name": "Нектар Малышам Яблоко-персик, 200мл",
+        "url": "https://online.metro-cc.ru/products/nektar-malysham-yabloko-persik-02-l",
+        "regular_price": 28.49,
+        "promo_price": null,
+        "brand": "МАЛЫШАМ"
+    },
+    {
+        "article": 223648,
+        "name": "Пенка детская Synergetic для купания 0+, 150мл",
+        "url": "https://online.metro-cc.ru/products/150ml-penka-detskaya-synergeticdlya-kupaniya-0",
+        "regular_price": 399,
+        "promo_price": 179,
+        "brand": "SYNERGETIC"
+    },
+    {
+        "article": 632012,
+        "name": "Сок ФрутоНяня из смеси фруктов осветленный, 500мл",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-osvetlennyj-05-l",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 200145,
+        "name": "Каша Nutrilon гречневая молочная, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-kasha-nutrilon-grechnevaya-molochnaya",
+        "regular_price": 319,
+        "promo_price": null,
+        "brand": "NUTRILON"
+    },
+    {
+        "article": 201259,
+        "name": "Пюре Сады Придонья яблоко-персик, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pyure-sady-pridonya-yablokopersik-steklo",
+        "regular_price": 39,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 206377,
+        "name": "Крем Baby Line детский с ромашкой и пантенолом, 75мл",
+        "url": "https://online.metro-cc.ru/products/75ml-detskiy-krem-baby-line-s-romashkoy-i-pantenolom",
+        "regular_price": 339,
+        "promo_price": null,
+        "brand": "BABY LINE"
+    },
+    {
+        "article": 206376,
+        "name": "Масло Baby Line детское для ухода и массажа, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-detskoe-maslo-baby-line-dlya-uhoda-i-massazha",
+        "regular_price": 449,
+        "promo_price": 279,
+        "brand": "BABY LINE"
+    },
+    {
+        "article": 216567,
+        "name": "Салфетки влажные Pamperino Kids с ромашкой и витамином Е Mix, 8 x 8 шт",
+        "url": "https://online.metro-cc.ru/products/salfetki-pamperino-kids-s-romashkoy-i-vitaminom-e-mix-8-x-8-sht",
+        "regular_price": 129,
+        "promo_price": null,
+        "brand": "PAMPERINO"
+    },
+    {
+        "article": 201250,
+        "name": "Пюре Сады Придонья кабачок, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pyure-sady-pridonya-kabachok",
+        "regular_price": 39,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 447896,
+        "name": "Сок детский Агуша Яблоко-шиповник осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-agusha-yabloko-shipovnik-osvetlennyj-dlya-detej-s-5-mesyacev-200ml",
+        "regular_price": 36.91,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 206374,
+        "name": "Пенка Baby Line длч купания с ромашкой и пантенолом, 250мл",
+        "url": "https://online.metro-cc.ru/products/250ml-penka-dlya-kupaniya-baby-line-s-romashkoy-i-pantenolom",
+        "regular_price": 419,
+        "promo_price": 269,
+        "brand": "BABY LINE"
+    },
+    {
+        "article": 201254,
+        "name": "Пюре Сады Придонья морковь, 120г",
+        "url": "https://online.metro-cc.ru/products/120g-pyure-sady-pridonya-morkov",
+        "regular_price": 39,
+        "promo_price": null,
+        "brand": "САДЫ ПРИДОНЬЯ"
+    },
+    {
+        "article": 225141,
+        "name": "aro Салфетки влажные детские ромашка-алоэ вера, 20шт",
+        "url": "https://online.metro-cc.ru/products/20sht-salfetki-vlazhnye-aro-detskie-romashkaaloe-vera",
+        "regular_price": 17.99,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 200918,
+        "name": "Нектар Малышам яблоко-банан, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-nektar-malysham-yablokobanan-tetrapak",
+        "regular_price": 28.49,
+        "promo_price": null,
+        "brand": "МАЛЫШАМ"
+    },
+    {
+        "article": 431502,
+        "name": "Крем Невская Косметика детский, 38г",
+        "url": "https://online.metro-cc.ru/products/38-g",
+        "regular_price": 82.9,
+        "promo_price": null,
+        "brand": "НЕВСКАЯ КОСМЕТИКА"
+    },
+    {
+        "article": 114424,
+        "name": "Мелки для рисования Нордпласт Just Cool, 7шт",
+        "url": "https://online.metro-cc.ru/products/dream-makers-melki-7-sht",
+        "regular_price": 249,
+        "promo_price": null,
+        "brand": "НОРДПЛАСТ"
+    },
+    {
+        "article": 224741,
+        "name": "Мыло жидкое Завод Братьев Крестовниковых нежная забота, 300г",
+        "url": "https://online.metro-cc.ru/products/300g-mylo-zhidkoe-zavod-bratev-krestovnikovyh-nezhnaya-zabota",
+        "regular_price": 339,
+        "promo_price": 199,
+        "brand": "ЗАВОД БРАТЬЕВ КРЕСТОВНИКОВЫХ"
+    },
+    {
+        "article": 202845,
+        "name": "Масло Ушастый нянь детское косметическое, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-maslo-ushastyy-nyan-detskoe-kosmeticheskoe",
+        "regular_price": 251,
+        "promo_price": null,
+        "brand": "УШАСТЫЙ НЯНЬ"
+    },
+    {
+        "article": 117075,
+        "name": "Пюре фруктовое Агуша Яблоко, груша, банан и манго с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-yabloko-grusha-banan-mango-90g",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 417991,
+        "name": "Крем Детский с витамином А, F и экстрактом ромашки, 46мл",
+        "url": "https://online.metro-cc.ru/products/46ml",
+        "regular_price": 49.99,
+        "promo_price": null,
+        "brand": "ДЕТСКИЙ"
+    },
+    {
+        "article": 207858,
+        "name": "Сок Агуша детский яблоко-вишня осветленный, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-sok-detskiy-agusha-yablokovishnya-osvetlennyy",
+        "regular_price": 36.91,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 202883,
+        "name": "Масло Свобода baby массажное для младенца 0+, 240мл",
+        "url": "https://online.metro-cc.ru/products/240ml-maslo-svoboda-baby-massazhnoe-dlya-mladentsa-0",
+        "regular_price": 179,
+        "promo_price": null,
+        "brand": "СВОБОДА"
+    },
+    {
+        "article": 136067,
+        "name": "Салфетки влажные Watashi для детей 0+ с Д-пантенолом, 80шт",
+        "url": "https://online.metro-cc.ru/products/salfetki-vlazhnye-watashi-dlya-detey-0-s-d-pantenolom-80sht",
+        "regular_price": 201,
+        "promo_price": null,
+        "brand": "WATASHI"
+    },
+    {
+        "article": 211901,
+        "name": "Бумеранг Zg фрисби",
+        "url": "https://online.metro-cc.ru/products/bumerang-frisbi-zg",
+        "regular_price": 149,
+        "promo_price": null,
+        "brand": "ZG"
+    },
+    {
+        "article": 200180,
+        "name": "Кисель Леовит Leo Kids успокаивающий для детей и родителей (12г х 5шт), 60г",
+        "url": "https://online.metro-cc.ru/products/5h12g-kisel-leo-kids-uspokaivayuschiy-ddetey-i-rodit",
+        "regular_price": 202,
+        "promo_price": 169,
+        "brand": "ЛЕОВИТ"
+    },
+    {
+        "article": 552019,
+        "name": "Крем Мое солнышко Пантенол, 100мл",
+        "url": "https://online.metro-cc.ru/products/laquodetskij-pantenol-raquo-serii-laquomoe-solnyshko-raquo-100ml",
+        "regular_price": 179,
+        "promo_price": null,
+        "brand": "МОЕ СОЛНЫШКО"
+    },
+    {
+        "article": 632011,
+        "name": "Сок детский ФрутоНяня Груша осветленный гипоаллергенный, 500мл",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-osvetlennyj-05-l-632011",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 211912,
+        "name": "Пузыри мыльные Valori с формой",
+        "url": "https://online.metro-cc.ru/products/mylnye-puzyri-s-formoy-valori",
+        "regular_price": 449,
+        "promo_price": null,
+        "brand": "VALORI"
+    },
+    {
+        "article": 211907,
+        "name": "Пузыри мыльные JH в баночке, 140г",
+        "url": "https://online.metro-cc.ru/products/mylnye-puzyri-v-banochke-jh",
+        "regular_price": 79,
+        "promo_price": null,
+        "brand": "JH"
+    },
+    {
+        "article": 203871,
+        "name": "Крем Весна детский с экстрактом чистотела, 45мл",
+        "url": "https://online.metro-cc.ru/products/45ml-krem-vesna-detskoe-s-ekstr-chistotela",
+        "regular_price": 34.49,
+        "promo_price": null,
+        "brand": "ВЕСНА"
+    },
+    {
+        "article": 202850,
+        "name": "Мыло Гадкий я жидкое, 300мл",
+        "url": "https://online.metro-cc.ru/products/300ml-mylo-zhidkoe-gadkiy-ya-detskiy",
+        "regular_price": 138,
+        "promo_price": null,
+        "brand": "ГАДКИЙ Я"
+    },
+    {
+        "article": 500366,
+        "name": "Крем Тик-Так детский, 40г",
+        "url": "https://online.metro-cc.ru/products/tik-tak-40g",
+        "regular_price": 68.9,
+        "promo_price": null,
+        "brand": "ТИК-ТАК"
+    },
+    {
+        "article": 228612,
+        "name": "Йогурт питьевой Растишка малиновое мороженое 2.8%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-yogurt-pit-28-rastishka-malinovoe-morozhen-bzmzh",
+        "regular_price": 73.9,
+        "promo_price": null,
+        "brand": "РАСТИШКА"
+    },
+    {
+        "article": 226946,
+        "name": "Биотворог ФрутоНяня банан 4.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/100g-biotvorog-42-frutonyanya-banan-bzmzh",
+        "regular_price": 35.49,
+        "promo_price": 29.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 202843,
+        "name": "Крем Librederm липидовосстанавливающий церамиды-пребиотик для лица и тела 0+, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-krem-librederm-lipidovos-tseramidypreb-litsotelo-0",
+        "regular_price": 699,
+        "promo_price": null,
+        "brand": "LIBREDERM"
+    },
+    {
+        "article": 202844,
+        "name": "Молочко Librederm для сухой кожи с церамидами и пребиотиками, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-molochko-librederm-dsuh-kozhi-s-tseramidamiprebiotik",
+        "regular_price": 799,
+        "promo_price": null,
+        "brand": "LIBREDERM"
+    },
+    {
+        "article": 526376,
+        "name": "Трусики Pampers 5 12-17кг, 42шт",
+        "url": "https://online.metro-cc.ru/products/pampers-5-12-18kg-48sht",
+        "regular_price": 1459,
+        "promo_price": 1299,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 637315,
+        "name": "Подгузники-трусики Merries XL 12-22кг, 76шт",
+        "url": "https://online.metro-cc.ru/products/art_637315",
+        "regular_price": 4679,
+        "promo_price": null,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 240153,
+        "name": "Смесь сухая NAN Безлактозный для детей с рождения, 400г",
+        "url": "https://online.metro-cc.ru/products/nan-bezlaktoznyj-suhaya-bezlaktoznaya-dlya-detej-s-rozhdeniya-400-g",
+        "regular_price": 1089,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 394218,
+        "name": "Подгузники Merries M 6-11кг, 64шт",
+        "url": "https://online.metro-cc.ru/products/merries-m-3-6-11kg-64sht",
+        "regular_price": 2309,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 200138,
+        "name": "Смесь Bebelac Gold 1 молочная на основе козьего молока, 350г",
+        "url": "https://online.metro-cc.ru/products/350g-molochnaya-smes-bebelac-gold-1-na-osnove-koz-mol",
+        "regular_price": 1029,
+        "promo_price": null,
+        "brand": "BEBELAC"
+    },
+    {
+        "article": 30287,
+        "name": "Трусики Huggies для мальчиков 3 6-11кг, 58шт",
+        "url": "https://online.metro-cc.ru/products/huggies-dlya-malchikov-3-6-11kg-58-sht",
+        "regular_price": 2039,
+        "promo_price": 1199,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 134792,
+        "name": "Трусики Pampers Pants Midi размер 3, 104шт",
+        "url": "https://online.metro-cc.ru/products/104sht-trusiki-pampers-pants-midi-razmer-3",
+        "regular_price": 3119,
+        "promo_price": 2599,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 228445,
+        "name": "Подгузники Pampers New Baby-Dry mini 4-8кг, 94шт",
+        "url": "https://online.metro-cc.ru/products/pampers-new-baby-dry-2-4-8kg-94sht",
+        "regular_price": 1899,
+        "promo_price": 1699,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 615743,
+        "name": "Напиток сокосодержащий Агуша Вода и Сок Садовые ягоды, 300мл",
+        "url": "https://online.metro-cc.ru/products/art_615743",
+        "regular_price": 58.91,
+        "promo_price": 49.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 663489,
+        "name": "Подгузники Huggies Elite soft для новорожденных 1 3-5кг, 84шт",
+        "url": "https://online.metro-cc.ru/products/huggies-elit-soft-1-3-5kg-84sht",
+        "regular_price": 1999,
+        "promo_price": 1399,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 269521,
+        "name": "Творог Агуша фруктовый мультифрукт 3.9%, 100г",
+        "url": "https://online.metro-cc.ru/products/agusha-multifrukt-39-100g-bzmzh",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 657912,
+        "name": "Каша Heinz 5 злаков с бананом и яблоком молочная с Омега 3 с 6 месяцев, 200г",
+        "url": "https://online.metro-cc.ru/products/heinz-molochnaya-pshenichnaya-s-tykvoj-omega-3-200g-657912",
+        "regular_price": 179,
+        "promo_price": 149,
+        "brand": "HEINZ"
+    },
+    {
+        "article": 62609,
+        "name": "aro Подгузники junior 5 (15-25кг), 56шт",
+        "url": "https://online.metro-cc.ru/products/aro-junior-5-15-25kg-56sht",
+        "regular_price": 1049,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 62605,
+        "name": "aro Подгузники maxi 4 (8-18кг), 64шт",
+        "url": "https://online.metro-cc.ru/products/aro-maxi-4-8-18kg-64sht",
+        "regular_price": 1049,
+        "promo_price": null,
+        "brand": "ARO"
+    },
+    {
+        "article": 200491,
+        "name": "Хлебцы Агуша мини рисовые груша, 30г",
+        "url": "https://online.metro-cc.ru/products/30g-risovye-mini-hlebtsy-agusha-grusha",
+        "regular_price": 56.9,
+        "promo_price": 48.9,
+        "brand": "АГУША"
+    },
+    {
+        "article": 218450,
+        "name": "Йогурт питьевой Агуша северные ягоды 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-pitevoy-yogurt-27-agusha-severnye-yagody-bzmzh",
+        "regular_price": 50.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 627846,
+        "name": "Пюре фруктовое Агуша Яблоко, клубника и малина с 6 месяцев, 90г",
+        "url": "https://online.metro-cc.ru/products/fruktovoe-agusha-yabloko-malina-klubnika-90g-",
+        "regular_price": 52.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 635032,
+        "name": "Йогурт питьевой ФрутоНяня малина, 200мл",
+        "url": "https://online.metro-cc.ru/products/pityevoj-frutonyanya-malina-200-ml",
+        "regular_price": 45.49,
+        "promo_price": 37.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 227275,
+        "name": "Смесь молочная NAN 1 Optipro для детей с рождения, 400г",
+        "url": "https://online.metro-cc.ru/products/nan-1-optipro-suhaya-molochnaya-dlya-detej-s-rozhdeniya-400-g",
+        "regular_price": 759,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 135598,
+        "name": "Биотворог ФрутоНяня яблоко-вишня-черешня 4.2%, 90г",
+        "url": "https://online.metro-cc.ru/products/biotvorog-frutonyanya-yabloko-vishnya-chereshnya-42-90g-bzmzh",
+        "regular_price": 51.9,
+        "promo_price": 42.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 395388,
+        "name": "Подгузники Merries XL 12-20кг, 44шт",
+        "url": "https://online.metro-cc.ru/products/merries-xl-12-20kg-44sht",
+        "regular_price": 2309,
+        "promo_price": 1499,
+        "brand": "MERRIES"
+    },
+    {
+        "article": 95354,
+        "name": "Биотворог ФрутоНяня клубника, банан и яблоко с 6 месяцев 4.2%, 90г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-klubnika-banan-yabloko-42-90-g-bzmzh",
+        "regular_price": 42.49,
+        "promo_price": 38.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 203743,
+        "name": "Салфетки влажные Pampers New baby для новорожденных, 50шт",
+        "url": "https://online.metro-cc.ru/products/salfetki-vlazhnye-pampers-new-baby-dlya-novorozhdennykh-50sht",
+        "regular_price": 271,
+        "promo_price": 189,
+        "brand": "PAMPERS"
+    },
+    {
+        "article": 202103,
+        "name": "Биолакт ФрутоНяня классический 3.4%, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-biolakt-34-frutonyanya-klassicheskiy-bzmzh",
+        "regular_price": 39.49,
+        "promo_price": 32.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 240157,
+        "name": "Смесь молочная NAN Expert Pro 1 гипоаллергенный, 400г",
+        "url": "https://online.metro-cc.ru/products/suhaya-nan-1-gipoallergennyj-400g",
+        "regular_price": 1049,
+        "promo_price": null,
+        "brand": "NAN"
+    },
+    {
+        "article": 200139,
+        "name": "Смесь Bebelac Gold 2 молочная на основе козьего молока, 350г",
+        "url": "https://online.metro-cc.ru/products/350g-molochnaya-smes-bebelac-gold-2-na-osnove-koz-mol",
+        "regular_price": 1029,
+        "promo_price": null,
+        "brand": "BEBELAC"
+    },
+    {
+        "article": 646042,
+        "name": "Биотворог ФрутоНяня клубника, банан и яблоко с 6 месяцев 4.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-klubnika-banan-yabloko-100-g",
+        "regular_price": 35.99,
+        "promo_price": 30.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 79719,
+        "name": "Творог Мама Лама с клубникой и бананом 3.8%, 100г",
+        "url": "https://online.metro-cc.ru/products/mama-lama-s-klubnikoj-bananom-38-100g",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "МАМА ЛАМА"
+    },
+    {
+        "article": 605149,
+        "name": "Биотворог ФрутоНяня яблоко и банан для питания детей раннего возраста с 6 месяцев 4.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/biotvorog-frutonyanya-yabloko-banan-detej-rannego-vozrasta-42-100g-bzmzh",
+        "regular_price": 35.99,
+        "promo_price": 30.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 447898,
+        "name": "Сок детский Агуша Яблоко-персик с мякотью, 200мл",
+        "url": "https://online.metro-cc.ru/products/sok-agusha-yabloko-persik-s-myakotyu-dlya-detej-200ml",
+        "regular_price": 36.91,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 79720,
+        "name": "Творог Мама Лама с манго 3.8%, 100г",
+        "url": "https://online.metro-cc.ru/products/mama-lama-s-mango-38-100g",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "МАМА ЛАМА"
+    },
+    {
+        "article": 214918,
+        "name": "Кашка Агуша молочно-рисовая клубника-земляника-яблоко 2.7%, 200мл",
+        "url": "https://online.metro-cc.ru/products/200ml-kashka-molochno-risovaya-27-agusha-klubnzemlyabl-bzmzh",
+        "regular_price": 54.9,
+        "promo_price": null,
+        "brand": "АГУША"
+    },
+    {
+        "article": 63725,
+        "name": "Йогурт питьевой Мама Лама персик 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/biolakt-mama-lama-s-persikom-25-200ml-bzmzh",
+        "regular_price": 57.9,
+        "promo_price": null,
+        "brand": "МАМА ЛАМА"
+    },
+    {
+        "article": 127438,
+        "name": "Змей воздушный 1Toy Орел, 130 x 66см",
+        "url": "https://online.metro-cc.ru/products/1toy-vozdushnyj-zmej-orel-130h66sm",
+        "regular_price": 399,
+        "promo_price": null,
+        "brand": "1TOY"
+    },
+    {
+        "article": 136068,
+        "name": "Салфетки влажные Watashi детские 0+, 64шт",
+        "url": "https://online.metro-cc.ru/products/salfetki-vlazhnye-watashi-detskie-0-64sht",
+        "regular_price": 143,
+        "promo_price": null,
+        "brand": "WATASHI"
+    },
+    {
+        "article": 211577,
+        "name": "Мяч 1Toy Пвх в ассортименте, 23см",
+        "url": "https://online.metro-cc.ru/products/myach-pvh-23sm-v-assortimente-1toy",
+        "regular_price": 299,
+        "promo_price": null,
+        "brand": "1TOY"
+    },
+    {
+        "article": 212007,
+        "name": "Набор для песка Нордпласт единорог",
+        "url": "https://online.metro-cc.ru/products/nabor-dlya-peska-edinorog-nordplast",
+        "regular_price": 199,
+        "promo_price": null,
+        "brand": "НОРДПЛАСТ"
+    },
+    {
+        "article": 224743,
+        "name": "Крем детский Завод Братьев Крестовниковых питание и увлажнение, 75г",
+        "url": "https://online.metro-cc.ru/products/75g-krem-zavod-bratev-krestovnikovyh-detsk-pitanieuvlazhn",
+        "regular_price": 189,
+        "promo_price": 99.9,
+        "brand": "ЗАВОД БРАТЬЕВ КРЕСТОВНИКОВЫХ"
+    },
+    {
+        "article": 515464,
+        "name": "Молоко ФрутоНяня Перед сном детское ультрапастеризованное с 8 месяцев 2.5%, 200мл",
+        "url": "https://online.metro-cc.ru/products/frutonyanya-sterilizovannoe-200-g-bzmzh",
+        "regular_price": 39,
+        "promo_price": 35.9,
+        "brand": "ФРУТОНЯНЯ"
+    },
+    {
+        "article": 79721,
+        "name": "Творог Мама Лама классический 4.5%, 100г",
+        "url": "https://online.metro-cc.ru/products/mama-lama-klassicheskij-45-100g",
+        "regular_price": 41.49,
+        "promo_price": null,
+        "brand": "МАМА ЛАМА"
+    },
+    {
+        "article": 212008,
+        "name": "Набор для песка Нордпласт слоненок",
+        "url": "https://online.metro-cc.ru/products/nabor-dlya-peska-slonenok-nordplast",
+        "regular_price": 199,
+        "promo_price": null,
+        "brand": "НОРДПЛАСТ"
+    },
+    {
+        "article": 74329,
+        "name": "Набор 1Toy Водные бомбочки, 111 элементов",
+        "url": "https://online.metro-cc.ru/products/1toy-vodnye-bombochki",
+        "regular_price": 199,
+        "promo_price": null,
+        "brand": "1TOY"
+    },
+    {
+        "article": 114425,
+        "name": "Тарелка летающая Нордпласт 22см",
+        "url": "https://online.metro-cc.ru/products/letayuschaya-tarelka-nordplast-22-sm",
+        "regular_price": 99,
+        "promo_price": null,
+        "brand": "НОРДПЛАСТ"
+    },
+    {
+        "article": 110588,
+        "name": "Трусики Huggies для девочек 6 15-25кг, 88шт",
+        "url": "https://online.metro-cc.ru/products/huggies-6-dlya-devochek-15-25-kg-88-sht",
+        "regular_price": 4349,
+        "promo_price": 2499,
+        "brand": "HUGGIES"
+    },
+    {
+        "article": 112668,
+        "name": "Бадминтон 1Toy c двумя ракетками и воланами",
+        "url": "https://online.metro-cc.ru/products/1toy-2-raketki-2-volana",
+        "regular_price": 1299,
+        "promo_price": null,
+        "brand": "1TOY"
+    }
+]
